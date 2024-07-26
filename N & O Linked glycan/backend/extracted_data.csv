@@ -1,0 +1,1001 @@
+uniprotkb_canonical_ac,protein_name,site,amino_acid,glycosylation_type,peptide_seq_five_before,peptide_seq_five_after,peptide_seq_ten_before,peptide_seq_ten_after,taxonomy_id
+P46527-1,Cyclin-dependent kinase inhibitor 1B,198,Thr,o-linked|o-glcnacylation,LRRRQ,T,PKKPGLRRRQ,T,9606
+P05787-1,"Keratin, type II cytoskeletal 8",74,Ser,o-linked|o-glcnacylation,NQSLL,PLVLE,TAVTVNQSLL,PLVLEVDPNI,9606
+P31749-1,RAC-alpha serine/threonine-protein kinase,308,Thr,o-linked|o-glcnacylation,GATMK,FCGTP,EGIKDGATMK,FCGTPEYLAP,9606
+P05412-1,Transcription factor Jun,73,Ser,o-linked|o-glcnacylation,LLKLA,PELER,SPDVGLLKLA,PELERLIIQS,9606
+P46527-1,Cyclin-dependent kinase inhibitor 1B,157,Thr,o-linked|o-glcnacylation,RKRPA,DDSST,QCAGIRKRPA,DDSSTQNKRA,9606
+P49736-1,DNA replication licensing factor MCM2,27,Ser,o-linked|o-glcnacylation,DPLTS,PGRSS,RRRGNDPLTS,PGRSSRRTDA,9606
+Q53ET0-1,CREB-regulated transcription coactivator 2,171,Ser,o-linked|o-glcnacylation,LNRTS,DSALH,RLPSALNRTS,DSALHTSVMN,9606
+P63104-1,14-3-3 protein zeta/delta,184,Ser,o-linked|o-glcnacylation,YEILN,PEKAC,FSVFYYEILN,PEKACSLAKT,9606
+Q01167-1,Forkhead box protein K2,428,Ser,o-linked|o-glcnacylation,QSAPG,PLSSQ,EARFAQSAPG,PLSSQPVLIT,9606
+P16104-1,Histone H2AX,140,Ser,o-linked|o-glcnacylation,KATQA,QEY,PSGGKKATQA,QEY,9606
+Q92819-1,Hyaluronan synthase 2,221,Ser,o-linked|o-glcnacylation,MLDPA,SVEMV,CDSDTMLDPA,SVEMVKVLEE,9606
+Q53ET0-1,CREB-regulated transcription coactivator 2,70,Ser,o-linked|o-glcnacylation,SHYGG,LPNVN,AYTRSSHYGG,LPNVNQIGSG,9606
+P31749-1,RAC-alpha serine/threonine-protein kinase,312,Thr,o-linked|o-glcnacylation,KTFCG,PEYLA,DGATMKTFCG,PEYLAPEVLE,9606
+O15530-1,3-phosphoinositide-dependent protein kinase 1,394,Ser,o-linked|o-glcnacylation,SSSSS,HSLSA,GCMQVSSSSS,HSLSASDTGL,9606
+P05783-1,"Keratin, type I cytoskeletal 18",34,Ser,o-linked|o-glcnacylation,VSSAA,VYAGA,YGARPVSSAA,VYAGAGGSGS,9606
+O15530-1,3-phosphoinositide-dependent protein kinase 1,396,Ser,o-linked|o-glcnacylation,SSSSH,LSASD,MQVSSSSSSH,LSASDTGLPQ,9606
+P08047-1,Transcription factor Sp1,612,Ser,o-linked|o-glcnacylation,PYCKD,EGRGS,EACTCPYCKD,EGRGSGDPGK,9606
+Q15648-1,Mediator of RNA polymerase II transcription subunit 1,1032,Thr,o-linked|o-glcnacylation,SNRPF,PPTST,PSHSSSNRPF,PPTSTGGSKS,9606
+O15055-1,Period circadian protein homolog 2,662,Ser,o-linked|o-glcnacylation,PGKAE,VASLT,TSLALPGKAE,VASLTSQCSY,9606
+P06748-1,Nucleophosmin,125,Ser,o-linked|o-glcnacylation,EEDAE,EDEEE,HLVAVEEDAE,EDEEEEDVKL,9606
+P02545-1,Prelamin-A/C,628,Ser,o-linked|o-glcnacylation,TRSYR,VGGSG,SSVTVTRSYR,VGGSGGGSFG,9606
+P05783-1,"Keratin, type I cytoskeletal 18",18,Ser,o-linked|o-glcnacylation;o-linked|other,YRSLG,VQAPS,TFSTNYRSLG,VQAPSYGARP,9606
+P05783-1,"Keratin, type I cytoskeletal 18",31,Ser,o-linked|o-glcnacylation,ARPVS,AASVY,APSYGARPVS,AASVYAGAGG,9606
+P05783-1,"Keratin, type I cytoskeletal 18",30,Ser,o-linked|other;o-linked|o-glcnacylation,GARPV,SAASV,QAPSYGARPV,SAASVYAGAG,9606
+Q16555-1,Dihydropyrimidinase-related protein 2,509,Thr,o-linked|o-glcnacylation,CEVSV,PKTVT,YDGPVCEVSV,PKTVTPASSA,9606
+O94811-1,Tubulin polymerization-promoting protein,159,Ser,o-linked|o-glcnacylation,VTKAI,SPTVS,PIISGVTKAI,SPTVSRLTDT,9606
+P04004-1,Vitronectin,69,Thr,o-linked|other,RGDVF,MPEDE,KPQVTRGDVF,MPEDEYTVYD,9606
+P46937-1,Transcriptional coactivator YAP1,109,Ser,o-linked|o-glcnacylation,HSRQA,TDAGT,PEPKSHSRQA,TDAGTAGALT,9606
+P27816-1,Microtubule-associated protein 4,787,Ser,o-linked|o-glcnacylation,PEKRA,PSKPA,ADAKAPEKRA,PSKPASAPAS,9606
+P11388-1,DNA topoisomerase 2-alpha,1469,Ser,o-linked|o-glcnacylation,RKRKP,TSDDS,KTKNRRKRKP,TSDDSDSNFE,9606
+Q8N122-1,Regulatory-associated protein of mTOR,700,Thr,o-linked|o-glcnacylation,PSPAT,EGGSL,KNYALPSPAT,EGGSLTPVRD,9606
+O75533-1,Splicing factor 3B subunit 1,273,Thr,o-linked|o-glcnacylation,PGRGD,PGHAT,AGAATPGRGD,PGHATPGHGG,9606
+Q13247-1,Serine/arginine-rich splicing factor 6,316,Ser,o-linked|o-glcnacylation,KARSV,PPPKR,PVPPSKARSV,PPPKRATSRS,9606
+P01112-1,GTPase HRas,35,Thr,o-linked|o-glcnacylation;o-linked|other,DEYDP,IEDSY,QNHFVDEYDP,IEDSYRKQVV,9606
+P05783-1,"Keratin, type I cytoskeletal 18",15,Ser,o-linked|o-glcnacylation,STNYR,LGSVQ,TRSTFSTNYR,LGSVQAPSYG,9606
+Q8NB16-1,Mixed lineage kinase domain-like protein,358,Ser,o-linked|o-glcnacylation,RKTQT,MSLGT,AGFELRKTQT,MSLGTTREKT,9606
+P05783-1,"Keratin, type I cytoskeletal 18",44,Ser,o-linked|o-glcnacylation,AGGSG,RISVS,SVYAGAGGSG,RISVSRSTSF,9606
+Q9Y4P1-1,Cysteine protease ATG4B,34,Ser,o-linked|o-glcnacylation,LGRKY,IFTEK,EPVWILGRKY,IFTEKDEILS,9606
+Q14980-1,Nuclear mitotic apparatus protein 1,2106,Thr,o-linked|o-glcnacylation,AAIGA,PRAKG,SAATAAAIGA,PRAKGKAKH,9606
+Q76LX8-1,A disintegrin and metalloproteinase with thrombospondin motifs 13,698,Ser,o-linked|other;o-linked|o-fucosylation,GPCSV,CGAGL,WAAVRGPCSV,CGAGLRWVNY,9606
+Q86U90-1,Threonylcarbamoyl-AMP synthase,17,Ser,o-linked|o-glcnacylation,AAVAA,VGLSE,CRGMRAAVAA,VGLSEGPAGS,9606
+Q9Y5L2-1,Hypoxia-inducible lipid droplet-associated protein,44,Ser,o-linked|other,SWTTR,QLANT,PSPGTSWTTR,QLANTEPTKG,9606
+P00749-1,Urokinase-type plasminogen activator,158,Ser,o-linked|other,DGKKP,SPPEE,VHDCADGKKP,SPPEELKFQC,9606
+Q32P44-1,Echinoderm microtubule-associated protein-like 3,881,Thr,o-linked|o-glcnacylation,GPAPA,PSRTP,GAGGAGPAPA,PSRTPSLSPA,9606
+P05783-1,"Keratin, type I cytoskeletal 18",7,Ser,o-linked|o-glcnacylation,SFTTR,TFSTN,MSFTTR,TFSTNYRSLG,9606
+P05412-1,Transcription factor Jun,91,Thr,o-linked|o-glcnacylation,GHITT,PTPTQ,IQSSNGHITT,PTPTQFLCPK,9606
+P22314-1,Ubiquitin-like modifier-activating enzyme 1,4,Ser,o-linked|o-glcnacylation,MSS,PLSKK,MSS,PLSKKRRVSG,9606
+Q6PKG0-1,La-related protein 1,769,Thr,o-linked|o-glcnacylation,ARSLP,TVPES,EPSTIARSLP,TVPESPNYRN,9606
+P05783-1,"Keratin, type I cytoskeletal 18",42,Ser,o-linked|o-glcnacylation,AGAGG,GSRIS,AASVYAGAGG,GSRISVSRST,9606
+P05783-1,"Keratin, type I cytoskeletal 18",47,Ser,o-linked|o-glcnacylation,SGSRI,VSRST,AGAGGSGSRI,VSRSTSFRGG,9606
+P05783-1,"Keratin, type I cytoskeletal 18",23,Ser,o-linked|o-glcnacylation,SVQAP,YGARP,YRSLGSVQAP,YGARPVSSAA,9606
+P14923-1,Junction plakoglobin,21,Thr,o-linked|o-glcnacylation,WQQTY,YDSGI,IKVTEWQQTY,YDSGIHSGAN,9606
+Q8N122-1,Regulatory-associated protein of mTOR,699,Thr,o-linked|o-glcnacylation,LPSPA,TEGGS,EKNYALPSPA,TEGGSLTPVR,9606
+P10909-1,Clusterin,354,Asn,n-linked|other,QWKML,TSSLL,LLKSYQWKML,TSSLLEQLNE,9606
+P10909-1,Clusterin,86,Asn,n-linked|other,KEDAL,ETRES,EAKKKKEDAL,ETRESETKLK,9606
+P01215-1,Glycoprotein hormones alpha chain,76,Asn,n-linked|other,MLVQK,VTSES,RSKKTMLVQK,VTSESTCCVA,9606
+Q14766-1,Latent-transforming growth factor beta-binding protein 1,1366,Asn,n-linked|other,NVLAP,VTKQE,ASLCDNVLAP,VTKQECCCTS,9606
+P17050-1,Alpha-N-acetylgalactosaminidase,201,Asn,n-linked|other,LPPRV,YSLLA,AYEGGLPPRV,YSLLADICNL,9606
+P31749-1,RAC-alpha serine/threonine-protein kinase,473,Ser,o-linked|o-glcnacylation,HFPQF,YSASG,SERRPHFPQF,YSASGTA,9606
+P40763-1,Signal transducer and activator of transcription 3,727,Ser,o-linked|o-glcnacylation,IDLPM,PRTLD,TCSNTIDLPM,PRTLDSLMQF,9606
+P68431-1,Histone H3.1,11,Ser,o-linked|o-glcnacylation,QTARK,TGGKA,MARTKQTARK,TGGKAPRKQL,9606
+P55058-1,Phospholipid transfer protein,64,Asn,n-linked|other;n-linked|complex,GHFYY,ISEVK,LRGKEGHFYY,ISEVKVTELQ,9606
+P68431-1,Histone H3.1,29,Ser,o-linked|o-glcnacylation,KAARK,APATG,KQLATKAARK,APATGGVKKP,9606
+P07498-1,Kappa-casein,157,Thr,o-linked|other;o-linked|o-galnacylation,VDSVV,PEAFS,ATEPTVDSVV,PEAFSESIIT,9606
+P02765-1,Alpha-2-HS-glycoprotein,346,Ser,o-linked|other;o-linked|o-galnacylation,TVVQP,VGAAA,PRKTRTVVQP,VGAAAGPVVP,9606
+P84243-1,Histone H3.3,11,Ser,o-linked|o-glcnacylation,QTARK,TGGKA,MARTKQTARK,TGGKAPRKQL,9606
+P12259-1,Coagulation factor V,1150,Ser,o-linked|other,SHRSS,PELSE,STSDPSHRSS,PELSEMLEYD,9606
+P02656-1,Apolipoprotein C-III,94,Thr,o-linked|other;o-linked|o-galnacylation,PEVRP,SAVAA,FWDLDPEVRP,SAVAA,9606
+P0DN86-1,Choriogonadotropin subunit beta 3,147,Ser,o-linked|other;o-linked|o-galnacylation,KAPPP,LPSPS,DSSSSKAPPP,LPSPSRLPGP,9606
+P08670-1,Vimentin,39,Ser,o-linked|o-glcnacylation,STRTY,LGSAL,SYVTTSTRTY,LGSALRPSTS,9606
+P35222-1,Catenin beta-1,41,Thr,o-linked|o-glcnacylation,HSGAT,TAPSL,LDSGIHSGAT,TAPSLSGKGN,9606
+P29474-1,Nitric oxide synthase 3,1177,Ser,o-linked|o-glcnacylation,RIRTQ,FSLQE,QEVTSRIRTQ,FSLQERQLRG,9606
+P35222-1,Catenin beta-1,112,Thr,o-linked|o-glcnacylation,MQIPS,QFDAA,TLDEGMQIPS,QFDAAHPTNV,9606
+P35568-1,Insulin receptor substrate 1,1101,Ser,o-linked|o-glcnacylation;o-linked|other,RRRHS,ETFSS,DPQGCRRRHS,ETFSSTPSAT,9606
+P08670-1,Vimentin,56,Ser,o-linked|o-glcnacylation,SLYAS,PGGVY,PSTSRSLYAS,PGGVYATRSS,9606
+P68431-1,Histone H3.1,46,Thr,o-linked|o-glcnacylation,RYRPG,VALRE,VKKPHRYRPG,VALREIRRYQ,9606
+P10451-1,Osteopontin,147,Thr,o-linked|other;o-linked|o-galnacylation,ATEVF,PVVPT,PTDLPATEVF,PVVPTVDTYD,9606
+P35222-1,Catenin beta-1,23,Ser,o-linked|o-glcnacylation,RKAAV,HWQQQ,AMEPDRKAAV,HWQQQSYLDS,9606
+Q15149-1,Plectin,4539,Thr,o-linked|o-glcnacylation;o-linked|other,LIEPD,PGRVP,YLTGGLIEPD,PGRVPLDEAL,9606
+P02649-1,Apolipoprotein E,212,Thr,o-linked|other;o-linked|o-galnacylation,RVRAA,VGSLA,LVEQGRVRAA,VGSLAGQPLQ,9606
+P12259-1,Coagulation factor V,1053,Ser,o-linked|other,FHPLR,EAYNT,LSPRTFHPLR,EAYNTFSERR,9606
+P46100-1,Transcriptional regulator ATRX,978,Ser,o-linked|o-glcnacylation,QSDET,EDDKK,FLKKDQSDET,EDDKKQSKKG,9606
+P18031-1,Tyrosine-protein phosphatase non-receptor type 1,386,Ser,o-linked|o-glcnacylation,GAQAA,PAKGE,GGSLRGAQAA,PAKGEPSLPE,9606
+P08670-1,Vimentin,7,Ser,o-linked|o-glcnacylation,STRSV,SSSYR,MSTRSV,SSSYRRMFGG,9606
+P0DN86-1,Choriogonadotropin subunit beta 3,152,Ser,o-linked|other;o-linked|o-galnacylation,SLPSP,RLPGP,KAPPPSLPSP,RLPGPSDTPI,9606
+Q13263-1,Transcription intermediary factor 1-beta,473,Ser,o-linked|o-glcnacylation,VKRSR,GEGEV,PHVSGVKRSR,GEGEVSGLMR,9606
+A2RRP1-1,NBAS subunit of NRZ tethering complex,307,Ser,o-linked|o-glcnacylation,LLRML,VKFYS,PKTLGLLRML,VKFYSRQGQE,9606
+P62805-1,Histone H4,48,Ser,o-linked|o-glcnacylation,GVKRI,GLIYE,LARRGGVKRI,GLIYEETRGV,9606
+P02649-1,Apolipoprotein E,314,Ser,o-linked|other;o-linked|o-galnacylation,AAPVP,DNH,AVGTSAAPVP,DNH,9606
+Q14112-1,Nidogen-2,369,Thr,o-linked|other,HTKEG,SLGEV,STLDPHTKEG,SLGEVGGPDL,9606
+P21359-1,Neurofibromin,879,Ser,o-linked|o-glcnacylation,KGSMI,VMSSE,PVSERKGSMI,VMSSEGNADT,9606
+P68871-1,Hemoglobin subunit beta,73,Ser,o-linked|o-glcnacylation,VLGAF,DGLAH,AHGKKVLGAF,DGLAHLDNLK,9606
+Q86X29-1,Lipolysis-stimulated lipoprotein receptor,424,Ser,o-linked|other,RPGPP,GRVER,NFDPSRPGPP,GRVERAMSEV,9606
+Q15750-1,TGF-beta-activated kinase 1 and MAP3K7-binding protein 1,423,Ser,o-linked|o-glcnacylation,VNGAH,ASTLD,SQGQMVNGAH,ASTLDEATPT,9606
+P49841-1,Glycogen synthase kinase-3 beta,43,Thr,o-linked|o-glcnacylation,TTVVA,PGQGP,DGSKVTTVVA,PGQGPDRPQE,9606
+Q9WV60-1,Glycogen synthase kinase-3 beta,9,Ser,o-linked|o-glcnacylation,RPRTT,FAESC,MSGRPRTT,FAESCKPVQQ,10090
+P46100-1,Transcriptional regulator ATRX,706,Ser,o-linked|o-glcnacylation,RNSSD,AIDNP,RKKDKRNSSD,AIDNPKPNKL,9606
+O43157-1,Plexin-B1,693,Ser,o-linked|other,GGPSP,PPTAP,DPPARGGPSP,PPTAPKALAT,9606
+P03372-1,Estrogen receptor,554,Ser,o-linked|o-glcnacylation,LHAPT,RGGAS,LDAHRLHAPT,RGGASVEETD,9606
+Q8WXI7-1,Mucin-16,6385,Thr,o-linked|other,SSDTS,VFDKA,QKIGSSSDTS,VFDKAFTAAT,9606
+P36507-1,Dual specificity mitogen-activated protein kinase kinase 2,396,Thr,o-linked|o-glcnacylation,QPGTP,RTAV,TLRLNQPGTP,RTAV,9606
+Q92542-1,Nicastrin,437,Ser,o-linked|o-glcnacylation,RARNI,GVVLA,LQRFLRARNI,GVVLADHSGA,9606
+Q8IVL0-1,Neuron navigator 3,984,Ser,o-linked|o-glcnacylation,ASLSV,QTGSW,KAGQKASLSV,QTGSWRRGMS,9606
+Q86X29-1,Lipolysis-stimulated lipoprotein receptor,396,Ser,o-linked|other,YRIQA,QQDDS,EVRSGYRIQA,QQDDSMRVLY,9606
+P35968-1,Vascular endothelial growth factor receptor 2,1231,Ser,o-linked|o-glcnacylation,NSKRK,RPVSV,SQYLQNSKRK,RPVSVKTFED,9606
+P08670-1,Vimentin,25,Ser,o-linked|o-glcnacylation;o-linked|other,TASRP,SSRSY,FGGPGTASRP,SSRSYVTTST,9606
+P78524-1,DENN domain-containing protein 2B,107,Ser,o-linked|o-glcnacylation,LDRSP,ACKRD,ASFGYLDRSP,ACKRDAQKES,9606
+P23771-1,Trans-acting T-cell-specific transcription factor GATA-3,316,Ser,o-linked|o-glcnacylation,RRAGT,CANCQ,RLSAARRAGT,CANCQTTTTT,9606
+O14686-1,Histone-lysine N-methyltransferase 2D,4822,Ser,o-linked|o-glcnacylation,VLFPE,PARAG,PNSYEVLFPE,PARAGTEPKK,9606
+O14497-1,AT-rich interactive domain-containing protein 1A,1235,Ser,o-linked|o-glcnacylation,KDPYG,MRKAP,SYEPNKDPYG,MRKAPGSDPF,9606
+P08670-1,Vimentin,51,Ser,o-linked|o-glcnacylation,PSTSR,LYASS,GSALRPSTSR,LYASSPGGVY,9606
+P23771-1,Trans-acting T-cell-specific transcription factor GATA-3,315,Thr,o-linked|o-glcnacylation,ARRAG,SCANC,RRLSAARRAG,SCANCQTTTT,9606
+Q13315-1,Serine-protein kinase ATM,935,Thr,o-linked|o-glcnacylation,LIDSS,LEPTK,RKLLMLIDSS,LEPTKSLHLH,9606
+Q09472-1,Histone acetyltransferase p300,106,Ser,o-linked|o-glcnacylation,GQVMA,QAQQS,GVGGPGQVMA,QAQQSSPGLG,9606
+Q01196-1,Runt-related transcription factor 1,285,Thr,o-linked|o-glcnacylation,ASGMT,LSAEL,ISPGRASGMT,LSAELSSRLS,9606
+Q92793-1,CREB-binding protein,2364,Ser,o-linked|o-glcnacylation,PHSSP,PRIQP,PQSQPPHSSP,PRIQPQPSPH,9606
+P23284-1,Peptidyl-prolyl cis-trans isomerase B,139,Ser,o-linked|o-glcnacylation,GPGWV,MANAG,KLKHYGPGWV,MANAGKDTNG,9606
+Q07157-1,Tight junction protein ZO-1,978,Ser,o-linked|o-glcnacylation,SLRTP,TEAAH,SPQADSLRTP,TEAAHIMLRD,9606
+P35658-1,Nuclear pore complex protein Nup214,508,Ser,o-linked|o-glcnacylation,SSGSD,SKAAP,EPPSYSSGSD,SKAAPGPGPS,9606
+O96017-1,Serine/threonine-protein kinase Chk2,378,Thr,o-linked|o-glcnacylation,KILGE,SLMRT,DFGHSKILGE,SLMRTLCGTP,9606
+Q92793-1,CREB-binding protein,2356,Ser,o-linked|o-glcnacylation,SPRPQ,QPPHS,PAPVQSPRPQ,QPPHSSPSPR,9606
+P08670-1,Vimentin,34,Ser,o-linked|o-glcnacylation,SYVTT,TRTYS,PSSSRSYVTT,TRTYSLGSAL,9606
+Q9BXS6-1,Nucleolar and spindle-associated protein 1,240,Ser,o-linked|o-glcnacylation,PRGRL,VASTP,RTPVPPRGRL,VASTPISQRR,9606
+P19429-1,"Troponin I, cardiac muscle",31,Thr,o-linked|o-glcnacylation,YRAYA,EPHAK,RRSSNYRAYA,EPHAKKKSKI,9606
+Q13586-1,Stromal interaction molecule 1,626,Thr,o-linked|o-glcnacylation;o-linked|other,SPDPD,PSPVG,SHSPSSPDPD,PSPVGDSRAL,9606
+P25445-1,Tumor necrosis factor receptor superfamily member 6,214,Thr,o-linked|other,SHESP,LNPET,KENQGSHESP,LNPETVAINL,9606
+Q9H4G0-1,Band 4.1-like protein 1,799,Thr,o-linked|o-glcnacylation,STYGA,AETLS,KDVLTSTYGA,AETLSTSTTT,9606
+Q96RI9-1,Trace amine-associated receptor 9,67,Thr,o-linked|o-glcnacylation,QLHTP,NFLIA,ILHFKQLHTP,NFLIASLACA,9606
+O75592-1,E3 ubiquitin-protein ligase MYCBP2,4321,Thr,o-linked|o-glcnacylation,EGCGR,KLFWL,KVDLHEGCGR,KLFWLMALAD,9606
+P57740-1,Nuclear pore complex protein Nup107,67,Ser,o-linked|o-glcnacylation,PFTPT,RSLLR,SSFRQPFTPT,RSLLRQPDIS,9606
+O43524-1,Forkhead box protein O3,296,Thr,o-linked|o-glcnacylation,WPGSP,SRSSD,SQLSKWPGSP,SRSSDELDAW,9606
+P37802-1,Transgelin-2,163,Ser,o-linked|o-glcnacylation,NPRNF,DNQLQ,KKSKENPRNF,DNQLQEGKNV,9606
+Q68CP9-1,AT-rich interactive domain-containing protein 2,1725,Ser,o-linked|o-glcnacylation,VGGTS,TPRAQ,TKQPTVGGTS,TPRAQKAIVN,9606
+O94761-1,ATP-dependent DNA helicase Q4,93,Thr,o-linked|o-glcnacylation,KSPQS,PGRSR,NRAATKSPQS,PGRSRQGSVP,9606
+O15027-1,Protein transport protein Sec16A,1244,Ser,o-linked|o-glcnacylation,PEGYY,SKSGW,PRQGYPEGYY,SKSGWSSQSD,9606
+P50402-1,Emerin,52,Ser,o-linked|o-glcnacylation,RLSPP,SSAAS,ETQRRRLSPP,SSAASSYSFS,9606
+Q8IWI9-4,MAX gene-associated protein,1668,Thr,o-linked|o-glcnacylation,TTGIT,PVASV,VNLTKTTGIT,PVASVAFPKS,9606
+O94817-1,Ubiquitin-like protein ATG12,41,Ser,o-linked|o-glcnacylation,SSAAV,PGTEE,TPEPPSSAAV,PGTEEPAGDT,9606
+P35658-1,Nuclear pore complex protein Nup214,1243,Thr,o-linked|o-glcnacylation,AAQGA,PSTKE,SSNFTAAQGA,PSTKESSQPD,9606
+Q6PJT7-1,Zinc finger CCCH domain-containing protein 14,132,Ser,o-linked|o-glcnacylation,RDSRV,TSSQE,ARPEKRDSRV,TSSQESKTTN,9606
+Q14671-1,Pumilio homolog 1,803,Ser,o-linked|o-glcnacylation,ASSAS,LFSPS,AKYRSASSAS,LFSPSSTLFS,9606
+P55317-1,Hepatocyte nuclear factor 3-alpha,285,Ser,o-linked|o-glcnacylation,SGSGG,GAKGG,GGGGGSGSGG,GAKGGPESRK,9606
+Q9NYF8-1,Bcl-2-associated transcription factor 1,119,Ser,o-linked|o-glcnacylation,SPKRR,VSSQR,RSRSRSPKRR,VSSQRSRSRS,9606
+P49848-1,Transcription initiation factor TFIID subunit 6,634,Ser,o-linked|o-glcnacylation,PPPAS,PSPLS,HPSPVPPPAS,PSPLSGSALC,9606
+Q86X29-1,Lipolysis-stimulated lipoprotein receptor,579,Ser,o-linked|other,PRDNG,RSGDL,HRTRDPRDNG,RSGDLPYDGR,9606
+Q12857-1,Nuclear factor 1 A-type,344,Thr,o-linked|o-glcnacylation,TSSLG,AFTQH,PSPSQTSSLG,AFTQHHRPVI,9606
+Q04726-1,Transducin-like enhancer protein 3,328,Thr,o-linked|o-glcnacylation,RNDAP,PGTST,NTPTPRNDAP,PGTSTTPGLR,9606
+Q96C86-1,m7GpppX diphosphatase,36,Thr,o-linked|o-glcnacylation,GVGNG,CAPVR,EEKEAGVGNG,CAPVRLPFSG,9606
+Q96N67-1,Dedicator of cytokinesis protein 7,190,Ser,o-linked|o-glcnacylation,DTPRG,WACSI,SMSIDDTPRG,WACSIFDLKN,9606
+P51532-1,Transcription activator BRG1,298,Thr,o-linked|o-glcnacylation,AAPTS,PQKLI,PMANAAAPTS,PQKLIPPQPT,9606
+Q9UKK3-1,Protein mono-ADP-ribosyltransferase PARP4,1335,Ser,o-linked|o-glcnacylation,TARAH,PASLS,SYLPPTARAH,PASLSFASYR,9606
+Q92793-1,CREB-binding protein,2361,Ser,o-linked|o-glcnacylation,SQPPH,SPSPR,SPRPQSQPPH,SPSPRIQPQP,9606
+Q12948-1,Forkhead box protein C1,335,Ser,o-linked|o-glcnacylation,SGLLA,AAASS,AAELSSGLLA,AAASSRAGIA,9606
+P19338-1,Nucleolin,641,Thr,o-linked|o-glcnacylation,DGNKV,LDWAK,EDGEIDGNKV,LDWAKPKGEG,9606
+Q92954-1,Proteoglycan 4,427,Ser,o-linked|other;o-linked|o-galnacylation,PTTTK,APTTP,TKEPAPTTTK,APTTPKEPAP,9606
+P12270-1,Nucleoprotein TPR,1666,Thr,o-linked|o-glcnacylation,TSDPP,ANIKP,RGIASTSDPP,ANIKPTPVVS,9606
+P49257-1,Protein ERGIC-53,425,Ser,o-linked|other,MQHPG,AGGVY,RLVSGMQHPG,AGGVYETTQH,9606
+Q9Y4H2-1,Insulin receptor substrate 2,527,Thr,o-linked|o-glcnacylation,ESIAE,PPARD,RSNTPESIAE,PPARDGGGGG,9606
+P04406-1,Glyceraldehyde-3-phosphate dehydrogenase,83,Ser,o-linked|o-glcnacylation;o-linked|other,QERDP,KIKWG,PITIFQERDP,KIKWGDAGAE,9606
+Q96JY6-1,PDZ and LIM domain protein 2,134,Ser,o-linked|o-glcnacylation,SPRAG,PFSPP,SPTSLSPRAG,PFSPPPSSSS,9606
+P52594-1,Arf-GAP domain and FG repeat-containing protein 1,302,Ser,o-linked|o-glcnacylation;o-linked|other,GTFNT,QSHQT,SSADFGTFNT,QSHQTASAVS,9606
+P08670-1,Vimentin,27,Ser,o-linked|o-glcnacylation;o-linked|other,SRPSS,RSYVT,GPGTASRPSS,RSYVTTSTRT,9606
+Q96IZ0-1,PRKC apoptosis WT1 regulator protein,108,Ser,o-linked|o-glcnacylation,PGPRR,EDEPP,LTRAAPGPRR,EDEPPAASAS,9606
+P08670-1,Vimentin,26,Ser,o-linked|o-glcnacylation,ASRPS,SRSYV,GGPGTASRPS,SRSYVTTSTR,9606
+Q9H4A3-1,Serine/threonine-protein kinase WNK1,11,Ser,o-linked|o-glcnacylation,AEKQS,TPGSL,MSGGAAEKQS,TPGSLFLSPP,9606
+P33991-1,DNA replication licensing factor MCM4,19,Thr,o-linked|o-glcnacylation,RRGRA,PAQTP,SRRGSRRGRA,PAQTPRSEDA,9606
+Q96RK0-1,Protein capicua homolog,734,Ser,o-linked|o-glcnacylation,YSDKK,AAATS,GVSLVYSDKK,AAATSPAPHL,9606
+P05787-1,"Keratin, type II cytoskeletal 8",9,Ser,o-linked|o-glcnacylation,RVTQK,YKVST,MSIRVTQK,YKVSTSGPRA,9606
+P55042-1,GTP-binding protein RAD,290,Ser,o-linked|o-glcnacylation,IVARN,RKMAF,RFLGRIVARN,RKMAFRAKSK,9606
+O75821-1,Eukaryotic translation initiation factor 3 subunit G,3,Thr,o-linked|o-glcnacylation,MP,GDFDS,MP,GDFDSKPSWA,9606
+Q96HC4-1,PDZ and LIM domain protein 5,119,Ser,o-linked|o-glcnacylation,VSKVT,TNNMA,ITSPAVSKVT,TNNMAYNKAP,9606
+Q01196-1,Runt-related transcription factor 1,296,Thr,o-linked|o-glcnacylation,SSRLS,APDLT,LSAELSSRLS,APDLTAFSDP,9606
+P78559-1,Microtubule-associated protein 1A,878,Ser,o-linked|o-glcnacylation,TSIPS,RTEAT,LLDTVTSIPS,RTEATQGLDY,9606
+P12270-1,Nucleoprotein TPR,1679,Ser,o-linked|o-glcnacylation,VVSTP,KVTAA,IKPTPVVSTP,KVTAAAMAGN,9606
+Q96PV0-1,Ras/Rap GTPase-activating protein SynGAP,1079,Ser,o-linked|o-glcnacylation,QQLTV,AAQKP,QRGKSQQLTV,AAQKPRPSSG,9606
+Q15572-1,TATA box-binding protein-associated factor RNA polymerase I subunit C,828,Thr,o-linked|o-glcnacylation,PPQRD,PGCAT,YMAKLPPQRD,PGCATTPPHS,9606
+P04075-1,Fructose-bisphosphate aldolase A,344,Thr,o-linked|o-glcnacylation,CQGKY,PSGQA,ANSLACQGKY,PSGQAGAAAS,9606
+P10451-1,Osteopontin,152,Thr,o-linked|other;o-linked|o-galnacylation,TPVVP,VDTYD,ATEVFTPVVP,VDTYDGRGDS,9606
+Q86U86-1,Protein polybromo-1,681,Ser,o-linked|o-glcnacylation,RGRRL,AIFLR,NYTDKRGRRL,AIFLRLPSRS,9606
+Q9UHB6-1,LIM domain and actin-binding protein 1,279,Ser,o-linked|o-glcnacylation,YQAAV,KQSSS,DRMAKYQAAV,KQSSSTNYTN,9606
+O00391-1,Sulfhydryl oxidase 1,592,Thr,o-linked|other,KSPTN,TPHVP,KPEMMKSPTN,TPHVPAEGPE,9606
+P12270-1,Nucleoprotein TPR,1676,Ser,o-linked|o-glcnacylation;o-linked|other,PTPVV,TPSKV,TANIKPTPVV,TPSKVTAAAM,9606
+P61769-1,Beta-2-microglobulin,77,Ser,o-linked|o-glcnacylation,SDLSF,KDWSF,EKVEHSDLSF,KDWSFYLLYY,9606
+Q9NZ53-1,Podocalyxin-like protein 2,144,Ser,o-linked|other;o-linked|o-galnacylation,LPNLP,PLPKM,SQAQELPNLP,PLPKMNLVEP,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,2150,Ser,o-linked|o-glcnacylation,DLTGP,VDVEV,PKLEGDLTGP,VDVEVPDVEL,9606
+Q15942-1,Zyxin,170,Ser,o-linked|o-glcnacylation,KARVS,GYVPP,KNDPFKARVS,GYVPPPVATP,9606
+P61769-1,Beta-2-microglobulin,75,Ser,o-linked|o-glcnacylation,EHSDL,FSKDW,RIEKVEHSDL,FSKDWSFYLL,9606
+Q9UGU0-1,Transcription factor 20,1278,Thr,o-linked|o-glcnacylation,VKNSS,EDKGR,RQSQDVKNSS,EDKGRLLHSS,9606
+Q5HYI7-1,Metaxin-3,255,Thr,o-linked|o-glcnacylation,PAGQE,VDANL,LGGISPAGQE,VDANLQKLTQ,9606
+P17936-1,Insulin-like growth factor-binding protein 3,148,Ser,o-linked|other,DRSAG,VESPS,SESEEDRSAG,VESPSVSSTH,9606
+O14964-1,Hepatocyte growth factor-regulated tyrosine kinase substrate,306,Ser,o-linked|o-glcnacylation,APPAS,LYSSP,PSASSAPPAS,LYSSPVNSSA,9606
+P08670-1,Vimentin,458,Thr,o-linked|o-glcnacylation,QVINE,SQHHD,ETRDGQVINE,SQHHDDLE,9606
+P35658-1,Nuclear pore complex protein Nup214,506,Ser,o-linked|o-glcnacylation,SYSSG,DSSKA,TGEPPSYSSG,DSSKAAPGPG,9606
+Q96IV0-1,Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase,116,Ser,o-linked|o-glcnacylation,SRLDG,NKSHK,AIERSSRLDG,NKSHKVKSSQ,9606
+P08670-1,Vimentin,55,Ser,o-linked|o-glcnacylation,RSLYA,SPGGV,RPSTSRSLYA,SPGGVYATRS,9606
+O14497-1,AT-rich interactive domain-containing protein 1A,711,Ser,o-linked|o-glcnacylation,VAQSR,GPLSP,GSPASVAQSR,GPLSPAAVPG,9606
+Q96HC4-1,PDZ and LIM domain protein 5,136,Ser,o-linked|o-glcnacylation,PFGSV,SPKVT,NKAPRPFGSV,SPKVTSIPSP,9606
+Q07157-1,Tight junction protein ZO-1,1071,Ser,o-linked|o-glcnacylation,YTDQF,RNYEH,YESSSYTDQF,RNYEHRLRYE,9606
+Q8N6T3-1,ADP-ribosylation factor GTPase-activating protein 1,141,Thr,o-linked|o-glcnacylation,PPQPR,LPSMV,AQNWTPPQPR,LPSMVHRVSG,9606
+P25054-1,Adenomatous polyposis coli protein,883,Thr,o-linked|o-glcnacylation,LQIST,AAQIA,SSKRGLQIST,AAQIAKVMEE,9606
+P00533-1,Epidermal growth factor receptor,430,Thr,o-linked|o-glcnacylation,IIRGR,KQHGQ,FENLEIIRGR,KQHGQFSLAV,9606
+Q9Y4H2-1,Insulin receptor substrate 2,713,Thr,o-linked|o-glcnacylation,AGPAP,SAAGR,PSAGPAGPAP,SAAGRTFPAS,9606
+P12270-1,Nucleoprotein TPR,1660,Ser,o-linked|o-glcnacylation,ERGIA,TSDPP,TPASGERGIA,TSDPPTANIK,9606
+P07196-1,Neurofilament light polypeptide,21,Thr,o-linked|o-glcnacylation,RRYVE,PRVHI,STSYKRRYVE,PRVHISSVRS,9606
+Q14247-1,Src substrate cortactin,323,Thr,o-linked|o-glcnacylation,DKNAS,FEDVT,QKDRMDKNAS,FEDVTQVSSA,9606
+P82970-1,High mobility group nucleosome-binding domain-containing protein 5,31,Thr,o-linked|o-glcnacylation,MLVPV,PEVKP,ARLSAMLVPV,PEVKPKRTSS,9606
+P69905-1,Hemoglobin subunit alpha,4,Ser,o-linked|o-glcnacylation,MVL,PADKT,MVL,PADKTNVKAA,9606
+P46937-1,Transcriptional coactivator YAP1,367,Ser,o-linked|o-glcnacylation,QNPVS,PGMSQ,QDGGTQNPVS,PGMSQELRTM,9606
+Q13576-1,Ras GTPase-activating-like protein IQGAP2,596,Ser,o-linked|o-glcnacylation,SERVS,DGSWL,AKELKSERVS,DGSWLKLNLH,9606
+Q00653-1,Nuclear factor NF-kappa-B p100 subunit,429,Thr,o-linked|o-glcnacylation,SAPSR,PQCEP,EAAEPSAPSR,PQCEPQAPEM,9606
+Q9UKA4-1,A-kinase anchor protein 11,1136,Thr,o-linked|o-glcnacylation,EFAPA,PPSTP,GELAKEFAPA,PPSTPHNSSV,9606
+P08651-1,Nuclear factor 1 C-type,361,Ser,o-linked|o-glcnacylation,VIAVH,GIARS,QHHRPVIAVH,GIARSPHPSS,9606
+Q13422-1,DNA-binding protein Ikaros,361,Ser,o-linked|o-glcnacylation;o-linked|other,EGTPR,NHSAQ,HKPLAEGTPR,NHSAQDSAVE,9606
+P46100-1,Transcriptional regulator ATRX,786,Ser,o-linked|o-glcnacylation,RKSST,GSDFD,KGKRKRKSST,GSDFDTKKGK,9606
+Q86X29-1,Lipolysis-stimulated lipoprotein receptor,530,Ser,o-linked|other,PPRSR,RDDLY,SRAYMPPRSR,RDDLYDQDDS,9606
+O15294-1,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit,4,Ser,o-linked|o-glcnacylation,MAS,VGNVA,MAS,VGNVADSTEP,9606
+P52948-1,Nuclear pore complex protein Nup98-Nup96,997,Ser,o-linked|o-glcnacylation,QIMKA,LLTDE,NPHVLQIMKA,LLTDEEDVDM,9606
+P31750-1,RAC-alpha serine/threonine-protein kinase,308,Thr,o-linked|o-glcnacylation,GATMK,FCGTP,EGIKDGATMK,FCGTPEYLAP,10090
+P55317-1,Hepatocyte nuclear factor 3-alpha,282,Ser,o-linked|o-glcnacylation,GGGSG,GGSGA,PGAGGGGGSG,GGSGAKGGPE,9606
+Q9BTA9-1,WW domain-containing adapter protein with coiled-coil,303,Thr,o-linked|o-glcnacylation,VPAQK,ERKES,TPTSSVPAQK,ERKESTSGDK,9606
+O00220-1,Tumor necrosis factor receptor superfamily member 10A,424,Ser,o-linked|o-glcnacylation,TGRNA,IHTLL,KWVNKTGRNA,IHTLLDALER,9606
+Q6R327-1,Rapamycin-insensitive companion of mTOR,1348,Ser,o-linked|o-glcnacylation,PSLSH,EALAS,QQRMHPSLSH,EALASPAKDV,9606
+Q8NEZ4-1,Histone-lysine N-methyltransferase 2C,2011,Ser,o-linked|o-glcnacylation,HFTKP,PRADV,AGTSDHFTKP,PRADVFQRQR,9606
+Q14112-1,Nidogen-2,359,Ser,o-linked|other,PLEES,TLDPH,KVDTKPLEES,TLDPHTKEGT,9606
+Q8IWZ8-1,SURP and G-patch domain-containing protein 1,115,Ser,o-linked|o-glcnacylation,PSAPP,TPTPS,APTSAPSAPP,TPTPSAGKRS,9606
+P35580-1,Myosin-10,1145,Ser,o-linked|o-glcnacylation;o-linked|other,QKRDL,EELEA,NKAEKQKRDL,EELEALKTEL,9606
+P08670-1,Vimentin,49,Ser,o-linked|o-glcnacylation;o-linked|other,LRPST,RSLYA,SLGSALRPST,RSLYASSPGG,9606
+Q92954-1,Proteoglycan 4,430,Thr,o-linked|other;o-linked|o-galnacylation,TKSAP,TPKEP,PAPTTTKSAP,TPKEPAPTTP,9606
+P46100-1,Transcriptional regulator ATRX,594,Ser,o-linked|o-glcnacylation,KLTPV,LSNSP,KELYVKLTPV,LSNSPIKGAD,9606
+Q9UJU6-1,Drebrin-like protein,274,Ser,o-linked|o-glcnacylation,STTSI,SPQPG,KERAMSTTSI,SPQPGKLRSP,9606
+O14964-1,Hepatocyte growth factor-regulated tyrosine kinase substrate,305,Ser,o-linked|o-glcnacylation,SAPPA,SLYSS,MPSASSAPPA,SLYSSPVNSS,9606
+P60484-1,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN",227,Ser,o-linked|o-glcnacylation,VKIYS,NSGPT,VCQLKVKIYS,NSGPTRREDK,9606
+P12270-1,Nucleoprotein TPR,1677,Thr,o-linked|o-glcnacylation,TPVVS,PSKVT,ANIKPTPVVS,PSKVTAAAMA,9606
+P11277-1,"Spectrin beta chain, erythrocytic",1297,Ser,o-linked|o-glcnacylation,DKLLT,QDVSY,TLWINDKLLT,QDVSYDEARN,9606
+P05787-1,"Keratin, type II cytoskeletal 8",24,Ser,o-linked|o-glcnacylation,AFSSR,YTSGP,TSGPRAFSSR,YTSGPGSRIS,9606
+O14497-1,AT-rich interactive domain-containing protein 1A,58,Ser,o-linked|o-glcnacylation;o-linked|other,AAGQE,EGPAV,GEMKAAAGQE,EGPAVGPPQP,9606
+Q76LX8-1,A disintegrin and metalloproteinase with thrombospondin motifs 13,1087,Ser,o-linked|other;o-linked|o-fucosylation,MECSV,CGDGI,HVGTWMECSV,CGDGIQRRRD,9606
+P23588-1,Eukaryotic translation initiation factor 4B,347,Ser,o-linked|o-glcnacylation,PKEDD,SASTS,KPRSTPKEDD,SASTSQSTRA,9606
+P47196-1,RAC-alpha serine/threonine-protein kinase,473,Ser,o-linked|o-glcnacylation,HFPQF,YSASG,SERRPHFPQF,YSASGTA,10116
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,1750,Ser,o-linked|o-glcnacylation,RRSAS,PRTKT,RSSRRRRSAS,PRTKTTSRRG,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,2368,Ser,o-linked|o-glcnacylation,PASLT,ARMAP,AAALAPASLT,ARMAPALSGA,9606
+P14859-1,"POU domain, class 2, transcription factor 1",259,Thr,o-linked|o-glcnacylation,RTIAA,PIQTL,PATPTRTIAA,PIQTLPQSQS,9606
+Q96TC7-1,Regulator of microtubule dynamics protein 3,152,Thr,o-linked|other,ERSDS,GSSSV,FPFVRERSDS,GSSSVYFTAS,9606
+P56537-1,Eukaryotic translation initiation factor 6,235,Ser,o-linked|o-glcnacylation,STIAT,MRDSL,NEAQPSTIAT,MRDSLIDSLT,9606
+P35658-1,Nuclear pore complex protein Nup214,1167,Ser,o-linked|o-glcnacylation,QAKQG,LINSL,PVAANQAKQG,LINSLKPSGP,9606
+P35658-1,Nuclear pore complex protein Nup214,628,Thr,o-linked|o-glcnacylation,PLSHP,PLSAP,PAASGPLSHP,PLSAPPSSVP,9606
+P24928-1,DNA-directed RNA polymerase II subunit RPB1,1898,Thr,o-linked|o-glcnacylation,PTYSP,SPVYT,YSPTSPTYSP,SPVYTPTSPK,9606
+Q96AE4-1,Far upstream element-binding protein 1,147,Ser,o-linked|o-glcnacylation,GLPER,CMLTG,APDSGGLPER,CMLTGTPESV,9606
+Q9H6S3-1,Epidermal growth factor receptor kinase substrate 8-like protein 2,8,Ser,o-linked|o-glcnacylation,QSGAV,CCPGA,MSQSGAV,CCPGATNGSL,9606
+Q7Z5L9-1,Interferon regulatory factor 2-binding protein 2,147,Thr,o-linked|o-glcnacylation,LAQPP,PQPPP,RPAASLAQPP,PQPPPVNGIL,9606
+Q9BTA9-1,WW domain-containing adapter protein with coiled-coil,293,Thr,o-linked|o-glcnacylation,LSKLP,PTSSV,NGASTLSKLP,PTSSVPAQKT,9606
+Q7Z589-1,BRCA2-interacting transcriptional repressor EMSY,287,Ser,o-linked|o-glcnacylation,TTSPS,TFVPN,KVIIVTTSPS,TFVPNILSKS,9606
+P00450-1,Ceruloplasmin,492,Ser,o-linked|other,EGTYY,PNYNP,FNKNNEGTYY,PNYNPQSRSV,9606
+P49916-1,DNA ligase 3,191,Thr,o-linked|o-glcnacylation,SKAAG,PKKKA,IADLSSKAAG,PKKKAVVQAK,9606
+O94900-1,Thymocyte selection-associated high mobility group box protein TOX,336,Ser,o-linked|o-glcnacylation,SLVSK,YSEPV,AAYRASLVSK,YSEPVDVKTS,9606
+P46100-1,Transcriptional regulator ATRX,591,Thr,o-linked|o-glcnacylation,LYVKL,PVSLS,KVTKELYVKL,PVSLSNSPIK,9606
+P06748-1,Nucleophosmin,88,Ser,o-linked|o-glcnacylation,VQPTV,LGGFE,TLKMSVQPTV,LGGFEITPPV,9606
+Q14814-1,Myocyte-specific enhancer factor 2D,275,Ser,o-linked|o-glcnacylation;o-linked|other,LRVIT,QAGKG,SRKPDLRVIT,QAGKGLMHHL,9606
+O43852-1,Calumenin,35,Ser,o-linked|other,HEPQL,DKVHN,KDRVHHEPQL,DKVHNDAQSF,9606
+P98171-1,Rho GTPase-activating protein 4,202,Thr,o-linked|o-glcnacylation,GRSVP,TTAGA,EEKRAGRSVP,TTAGATEAGP,9606
+A8CG34-1,Nuclear envelope pore membrane protein POM 121C,965,Thr,o-linked|o-glcnacylation,AKPAL,PSFGS,QPPGAAKPAL,PSFGSSFTFG,9606
+P09012-1,U1 small nuclear ribonucleoprotein A,131,Thr,o-linked|o-glcnacylation,QGGGA,PVVGA,TKKAVQGGGA,PVVGAVQGPV,9606
+Q9BQE3-1,Tubulin alpha-1C chain,94,Thr,o-linked|o-glcnacylation,PEQLI,GKEDA,RQLFHPEQLI,GKEDAANNYA,9606
+Q9P1A6-1,Disks large-associated protein 2,351,Ser,o-linked|o-glcnacylation,NDVKC,ACEGL,TSKSNNDVKC,ACEGLALTPD,9606
+P08670-1,Vimentin,33,Thr,o-linked|o-glcnacylation,RSYVT,STRTY,RPSSSRSYVT,STRTYSLGSA,9606
+P46100-1,Transcriptional regulator ATRX,60,Ser,o-linked|o-glcnacylation,DMMEN,KEEGT,SGSNSDMMEN,KEEGTSSSEK,9606
+P51884-1,Lumican,201,Ser,o-linked|o-glcnacylation,IARLP,GLPVS,LSFNQIARLP,GLPVSLLTLY,9606
+Q13428-1,Treacle protein,1270,Thr,o-linked|o-glcnacylation,AASGT,PQKSR,TGGKEAASGT,PQKSRKPKKG,9606
+P31939-1,Bifunctional purine biosynthesis protein ATIC,182,Thr,o-linked|o-glcnacylation,KAFTH,AQYDE,RQLALKAFTH,AQYDEAISDY,9606
+Q9UHB6-1,LIM domain and actin-binding protein 1,57,Thr,o-linked|o-glcnacylation,KKRSN,ENLSQ,ETNMEKKRSN,ENLSQHFRKG,9606
+Q02818-1,Nucleobindin-1,224,Ser,o-linked|other,VNVPG,QAQLK,REHPKVNVPG,QAQLKEVWEE,9606
+Q04695-1,"Keratin, type I cytoskeletal 17",10,Ser,o-linked|o-glcnacylation,IRQFT,SSSIK,MTTSIRQFT,SSSIKGSSGL,9606
+Q7Z3K3-1,Pogo transposable element with ZNF domain,1368,Thr,o-linked|o-glcnacylation,HSESS,PRPRS,KLSGEHSESS,PRPRSSPEET,9606
+P35658-1,Nuclear pore complex protein Nup214,1055,Thr,o-linked|o-glcnacylation,GTSVA,SASKI,SPGVMGTSVA,SASKIIPQGA,9606
+Q7Z589-1,BRCA2-interacting transcriptional repressor EMSY,569,Thr,o-linked|o-glcnacylation,TTKIT,IPMTS,IVSGTTTKIT,IPMTSKPNVI,9606
+Q7Z589-1,BRCA2-interacting transcriptional repressor EMSY,504,Thr,o-linked|o-glcnacylation,LVTTP,GTQAT,IMTTKLVTTP,GTQATYTRPT,9606
+Q86VF7-1,Nebulin-related-anchoring protein,205,Ser,o-linked|o-glcnacylation,RISRF,TVVDT,RGHDERISRF,TVVDTPELLR,9606
+P42694-1,Probable helicase with zinc finger domain,973,Ser,o-linked|o-glcnacylation,RKKRL,DVNVE,IRAELRKKRL,DVNVERVLNV,9606
+P40926-1,"Malate dehydrogenase, mitochondrial",276,Ser,o-linked|o-glcnacylation;o-linked|other,GVVEC,FVKSQ,MNGKEGVVEC,FVKSQETECT,9606
+P35658-1,Nuclear pore complex protein Nup214,1355,Thr,o-linked|o-glcnacylation,NKASS,SLTST,STKPTNKASS,SLTSTQPTKT,9606
+Q15847-1,Adipogenesis regulatory factor,57,Thr,o-linked|other,ETIDK,ANQAS,AKTTQETIDK,ANQASDTFSG,9606
+Q9UKA4-1,A-kinase anchor protein 11,1526,Ser,o-linked|o-glcnacylation,YHSTG,LNGYG,QNHRFYHSTG,LNGYGCGDNV,9606
+P40763-1,Signal transducer and activator of transcription 3,717,Thr,o-linked|o-glcnacylation;o-linked|other,CVTPT,CSNTI,KTKFICVTPT,CSNTIDLPMS,9606
+Q9Y4H2-1,Insulin receptor substrate 2,384,Ser,o-linked|o-glcnacylation,GARPV,VAGSP,GAAAAGARPV,VAGSPLSPGP,9606
+Q10471-1,Polypeptide N-acetylgalactosaminyltransferase 2,368,Thr,o-linked|other,KQHPY,FPGGS,GHVFRKQHPY,FPGGSGTVFA,9606
+P98082-1,Disabled homolog 2,723,Ser,o-linked|o-glcnacylation,APRQV,LPVTK,EPPKPAPRQV,LPVTKSTDNA,9606
+Q14678-1,KN motif and ankyrin repeat domain-containing protein 1,505,Thr,o-linked|o-glcnacylation,KVDKA,MAQPL,AGSRKKVDKA,MAQPLVFSKV,9606
+Q9Y450-1,HBS1-like protein,152,Ser,o-linked|o-glcnacylation,VDSQT,RSESE,AKGKPVDSQT,RSESEIVPKV,9606
+Q96PK6-1,RNA-binding protein 14,236,Thr,o-linked|o-glcnacylation,TAQPA,YRAQP,YVAPLTAQPA,YRAQPSVSLG,9606
+Q9HCD5-1,Nuclear receptor coactivator 5,418,Thr,o-linked|o-glcnacylation;o-linked|other,VLPSA,PTPSA,LQSGQVLPSA,PTPSAPPTSQ,9606
+Q9Y4B5-1,Microtubule cross-linking factor 1,745,Ser,o-linked|o-glcnacylation,PSPRD,DAESD,LGLRAPSPRD,DAESDAGKKE,9606
+Q9BTA9-1,WW domain-containing adapter protein with coiled-coil,475,Ser,o-linked|o-glcnacylation,STPPV,SQPKV,IKPLISTPPV,SQPKVSTPVV,9606
+P98175-1,RNA-binding protein 10,723,Ser,o-linked|o-glcnacylation,SDDRP,PPRGL,LPKLASDDRP,PPRGLVAAYS,9606
+Q13951-1,Core-binding factor subunit beta,169,Ser,o-linked|o-glcnacylation,MEVRV,QLLAV,SHREEMEVRV,QLLAVTGKKT,9606
+Q6UUV7-1,CREB-regulated transcription coactivator 3,353,Ser,o-linked|o-glcnacylation;o-linked|other,NHPQT,VPNAS,SSSLNNHPQT,VPNASALHPS,9606
+Q7KZ85-1,Transcription elongation factor SPT6,1526,Ser,o-linked|o-glcnacylation;o-linked|other,GITPS,SSRTR,QDPVPGITPS,SSRTRTPASI,9606
+O14497-1,AT-rich interactive domain-containing protein 1A,238,Thr,o-linked|o-glcnacylation,SPRGG,PGSGA,AYALSSPRGG,PGSGAAAAAG,9606
+P49327-1,Fatty acid synthase,980,Thr,o-linked|o-glcnacylation,PTPNP,EPLFL,DHPESPTPNP,EPLFLAQAEV,9606
+O60664-1,Perilipin-3,11,Ser,o-linked|o-glcnacylation,AEADG,TQVTV,MSADGAEADG,TQVTVEEPVQ,9606
+Q6N021-1,Methylcytosine dioxygenase TET2,1481,Ser,o-linked|o-glcnacylation,AEKLS,LENSS,AKKAAAEKLS,LENSSNKNEK,9606
+P51608-1,Methyl-CpG-binding protein 2,203,Thr,o-linked|o-glcnacylation,RPKAA,SEGVQ,GSGTTRPKAA,SEGVQVKRVL,9606
+P10451-1,Osteopontin,49,Ser,o-linked|other,LNPDP,QKQNL,AVATWLNPDP,QKQNLLAPQN,9606
+P27816-1,Microtubule-associated protein 4,853,Ser,o-linked|o-glcnacylation,KMTAK,VPADL,PAEVKKMTAK,VPADLSRPKS,9606
+P17275-1,Transcription factor JunB,117,Ser,o-linked|o-glcnacylation,PRGGG,GGGAG,GQYFYPRGGG,GGGAGGAGGG,9606
+P21917-1,D(4) dopamine receptor,245,Ser,o-linked|o-glcnacylation,GPGPP,PTPPA,PRRPSGPGPP,PTPPAPRLPQ,9606
+Q01082-1,"Spectrin beta chain, non-erythrocytic 1",2323,Ser,o-linked|o-glcnacylation;o-linked|other,QSTPA,SRAQT,VSASTQSTPA,SRAQTLPTSV,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,2388,Ser,o-linked|o-glcnacylation;o-linked|other,PRVPL,AYERV,ANLTSPRVPL,AYERVSGRTS,9606
+Q9ULU4-1,MYND-type zinc finger-containing chromatin reader ZMYND8,746,Thr,o-linked|o-glcnacylation,DVVGK,PPSTT,PSPKQDVVGK,PPSTTVGSHS,9606
+Q7Z589-1,BRCA2-interacting transcriptional repressor EMSY,1129,Thr,o-linked|o-glcnacylation,SVPKL,SPVTS,ITGGSSVPKL,SPVTSISPIQ,9606
+P46109-1,Crk-like protein,254,Thr,o-linked|o-glcnacylation,CAYDK,ALALE,QKRVPCAYDK,ALALEVGDIV,9606
+Q92615-1,La-related protein 4B,595,Thr,o-linked|o-glcnacylation,CAVSA,YERSP,SVPASCAVSA,YERSPSPAHL,9606
+Q8IWB9-1,Testis-expressed protein 2,176,Ser,o-linked|o-glcnacylation,PILSS,ASTST,SPSKSPILSS,ASTSTLSSAK,9606
+Q96T58-1,Msx2-interacting protein,2530,Ser,o-linked|o-glcnacylation;o-linked|other,SDVDT,SSTLR,PDTKASDVDT,SSTLRKILMD,9606
+Q8WXI7-1,Mucin-16,6360,Thr,o-linked|other,KIESE,TFSLI,SSAMKKIESE,TFSLIFRLRE,9606
+Q9UJX2-1,Cell division cycle protein 23 homolog,562,Thr,o-linked|o-glcnacylation,RNQGE,PTTEV,QILQLRNQGE,PTTEVPAPFF,9606
+Q04726-1,Transducin-like enhancer protein 3,333,Thr,o-linked|o-glcnacylation,TPGTS,TPGLR,RNDAPTPGTS,TPGLRSMPGK,9606
+Q03164-1,Histone-lysine N-methyltransferase 2A,1858,Ser,o-linked|o-glcnacylation;o-linked|other,RSRED,PELNP,ILSTDRSRED,PELNPPPGIE,9606
+P04004-1,Vitronectin,141,Thr,o-linked|other,DSRPE,LHPGR,KPEGIDSRPE,LHPGRPQPPA,9606
+Q8IVL0-1,Neuron navigator 3,1207,Ser,o-linked|o-glcnacylation,EKVAV,DSESV,TDKEKEKVAV,DSESVSLSGS,9606
+Q9UMX5-1,Neudesin,92,Thr,o-linked|other,PYNAL,GKDST,YGRGAPYNAL,GKDSTRGVAK,9606
+O43852-1,Calumenin,60,Thr,o-linked|other,AEEAK,FDQLT,DAFLGAEEAK,FDQLTPEESK,9606
+Q9UHD8-1,Septin-9,96,Ser,o-linked|o-glcnacylation,RRVEL,GPKAA,PKASLRRVEL,GPKAAEPVSR,9606
+Q9UPT8-1,Zinc finger CCCH domain-containing protein 4,899,Ser,o-linked|o-glcnacylation;o-linked|other,RALPT,KPEGS,DPRLARALPT,KPEGSLHSSP,9606
+P31749-1,RAC-alpha serine/threonine-protein kinase,305,Thr,o-linked|o-glcnacylation,IKDGA,MKTFC,LCKEGIKDGA,MKTFCGTPEY,9606
+O15047-1,Histone-lysine N-methyltransferase SETD1A,274,Thr,o-linked|o-glcnacylation,QGTPY,SRGST,TPQSSQGTPY,SRGSTPYSQD,9606
+O15294-1,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit,399,Ser,o-linked|o-glcnacylation,FADAY,NMGNT,RISPTFADAY,NMGNTLKEMQ,9606
+O94972-1,E3 ubiquitin-protein ligase TRIM37,195,Thr,o-linked|o-glcnacylation;o-linked|other,IARLD,QLKNK,AVEMMIARLD,QLKNKLITLM,9606
+O75376-1,Nuclear receptor corepressor 1,1545,Ser,o-linked|o-glcnacylation,PVVSH,PFDPH,VPGVDPVVSH,PFDPHHRGST,9606
+P08727-1,"Keratin, type I cytoskeletal 19",48,Ser,o-linked|o-glcnacylation,RGVSV,SARFV,GGSGGRGVSV,SARFVSSSSS,9606
+Q5VT52-1,Regulation of nuclear pre-mRNA domain-containing protein 2,426,Thr,o-linked|o-glcnacylation,VTMTA,PPLPK,CTPVPVTMTA,PPLPKPVNTS,9606
+Q68CP9-1,AT-rich interactive domain-containing protein 2,1724,Ser,o-linked|o-glcnacylation,TVGGT,STPRA,STKQPTVGGT,STPRAQKAIV,9606
+P49321-1,Nuclear autoantigenic sperm protein,176,Ser,o-linked|o-glcnacylation,DKEQD,EMEKG,AKPETDKEQD,EMEKGGREDM,9606
+Q8NEM7-1,Transcription factor SPT20 homolog,503,Ser,o-linked|o-glcnacylation,SSKPS,IPRKS,PTPPPSSKPS,IPRKSSVDLN,9606
+P05387-1,Large ribosomal subunit protein P2,79,Ser,o-linked|o-glcnacylation,SAAPG,AAPAA,GAVAVSAAPG,AAPAAGSAPA,9606
+Q9NYF8-1,Bcl-2-associated transcription factor 1,489,Thr,o-linked|o-glcnacylation,NSERI,VKKET,KEEDKNSERI,VKKETQSPEQ,9606
+P49321-1,Nuclear autoantigenic sperm protein,689,Ser,o-linked|o-glcnacylation,PGGGG,SVSMI,TSGFTPGGGG,SVSMIASRKP,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,1023,Ser,o-linked|o-glcnacylation,FDVNL,KANVD,GEGPEFDVNL,KANVDISAPK,9606
+Q86X29-1,Lipolysis-stimulated lipoprotein receptor,453,Thr,o-linked|other,RGPAL,PIRDE,RSRPSRGPAL,PIRDEEWGGH,9606
+P13807-1,"Glycogen [starch] synthase, muscle",698,Ser,o-linked|o-glcnacylation,WPRRA,CTSST,IRAPEWPRRA,CTSSTSGSKR,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,2376,Ser,o-linked|o-glcnacylation,MAPAL,GANLT,LTSARMAPAL,GANLTSPRVP,9606
+P02545-1,Prelamin-A/C,612,Ser,o-linked|o-glcnacylation;o-linked|other,VGGPI,SGSSA,GSGAQVGGPI,SGSSASSVTV,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,148,Ser,o-linked|o-glcnacylation,LGETQ,RTITV,GVEGDLGETQ,RTITVTRRVT,9606
+Q9H1A4-1,Anaphase-promoting complex subunit 1,286,Ser,o-linked|o-glcnacylation,VVLKF,EQGGT,SEEENVVLKF,EQGGTPQNVA,9606
+P23588-1,Eukaryotic translation initiation factor 4B,504,Ser,o-linked|o-glcnacylation,DTEQQ,PTSGG,RSQSSDTEQQ,PTSGGGKVAP,9606
+Q9Y4L1-1,Hypoxia up-regulated protein 1,590,Thr,o-linked|o-glcnacylation;o-linked|other,FGGGT,PDAKE,TISSLFGGGT,PDAKENGTDT,9606
+Q07157-1,Tight junction protein ZO-1,1425,Thr,o-linked|o-glcnacylation,EPIQA,PPPPP,GEKRYEPIQA,PPPPPLPSQY,9606
+P02649-1,Apolipoprotein E,215,Ser,o-linked|other,AATVG,LAGQP,QGRVRAATVG,LAGQPLQERA,9606
+Q5SW79-1,Centrosomal protein of 170 kDa,1279,Ser,o-linked|o-glcnacylation,AMPTS,SFKHR,QSAGSAMPTS,SFKHRIKEQE,9606
+O15372-1,Eukaryotic translation initiation factor 3 subunit H,17,Ser,o-linked|o-glcnacylation,ATSSS,TAGAA,GTGSTATSSS,TAGAAGKGKG,9606
+P17275-1,Transcription factor JunB,104,Thr,o-linked|o-glcnacylation,ITTTP,PPGQY,NSNGVITTTP,PPGQYFYPRG,9606
+Q9Y210-1,Short transient receptor potential channel 6,70,Thr,o-linked|o-glcnacylation,AHRRQ,VLREK,SDNRLAHRRQ,VLREKGRRLA,9606
+A6NEL2-1,Ankyrin repeat domain-containing protein SOWAHB,540,Ser,o-linked|o-glcnacylation,AGTAP,PRVDA,RKPSKAGTAP,PRVDAGLSLK,9606
+Q16555-1,Dihydropyrimidinase-related protein 2,570,Ser,o-linked|o-glcnacylation,RANIT,LG,APPGGRANIT,LG,9606
+P10636-1,Microtubule-associated protein tau,400,Ser,o-linked|o-glcnacylation,TSTRS,AKTLK,DKKAKTSTRS,AKTLKNRPCL,9606
+P02545-1,Prelamin-A/C,17,Ser,o-linked|o-glcnacylation,SGAQA,STPLS,RRATRSGAQA,STPLSPTRIT,9606
+P78324-1,Tyrosine-protein phosphatase non-receptor type substrate 1,494,Ser,o-linked|o-glcnacylation,PEPSF,EYASV,QPAPKPEPSF,EYASVQVPRK,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,983,Ser,o-linked|o-glcnacylation,PKVDV,APDVE,GDLKGPKVDV,APDVEMQGPD,9606
+Q9BY77-1,Polymerase delta-interacting protein 3,405,Ser,o-linked|o-glcnacylation,KALFK,SGASV,PDTILKALFK,SGASVTTQPT,9606
+O43151-1,Methylcytosine dioxygenase TET3,445,Thr,o-linked|o-glcnacylation,DTPPA,PRSSW,EAWGTDTPPA,PRSSWPMPRP,9606
+P82675-1,Small ribosomal subunit protein uS5m,344,Ser,o-linked|o-glcnacylation,SINML,LTQGL,AKVSGSINML,LTQGLFRGLS,9606
+P07478-1,Trypsin-2,180,Thr,o-linked|o-glcnacylation,YPGKI,NNMFC,ECEASYPGKI,NNMFCVGFLE,9606
+P49790-1,Nuclear pore complex protein Nup153,516,Ser,o-linked|o-glcnacylation,KVQMT,PSSTG,QALTNKVQMT,PSSTGSPMFK,9606
+Q15652-1,Probable JmjC domain-containing histone demethylation protein 2C,655,Ser,o-linked|o-glcnacylation,THSPD,VKSKA,VKPKITHSPD,VKSKATYVNS,9606
+P08133-1,Annexin A6,630,Ser,o-linked|o-glcnacylation,IMVSR,EIDLL,KTLTRIMVSR,EIDLLNIRRE,9606
+Q6UUV7-1,CREB-regulated transcription coactivator 3,363,Ser,o-linked|o-glcnacylation,SALHP,LRLFS,SVPNASALHP,LRLFSLSNPS,9606
+Q13206-1,Probable ATP-dependent RNA helicase DDX10,610,Thr,o-linked|o-glcnacylation,PSLPN,SEAQK,KGSQAPSLPN,SEAQKIKEVP,9606
+Q14161-1,ARF GTPase-activating protein GIT2,568,Ser,o-linked|o-glcnacylation,FPSTL,WSRDE,SSLPSFPSTL,WSRDESARRA,9606
+Q13950-1,Runt-related transcription factor 2,33,Ser,o-linked|o-glcnacylation,SPPSS,LQPGK,TSRRFSPPSS,LQPGKMSDVS,9606
+P37802-1,Transgelin-2,83,Ser,o-linked|o-glcnacylation,KKIQA,TMAFK,GQAPVKKIQA,TMAFKQMEQI,9606
+Q9Y6Q9-1,Nuclear receptor coactivator 3,860,Ser,o-linked|o-glcnacylation,AVSLD,PVSVG,PPYNRAVSLD,PVSVGSSPPV,9606
+Q6UVJ0-1,Spindle assembly abnormal protein 6 homolog,495,Thr,o-linked|o-glcnacylation,LGPST,PPAHS,RKQDVLGPST,PPAHSSSNTI,9606
+P12272-1,Parathyroid hormone-related protein,108,Thr,o-linked|other,YLTQE,NKVET,DDEGRYLTQE,NKVETYKEQP,9606
+O75179-1,Ankyrin repeat domain-containing protein 17,1535,Ser,o-linked|o-glcnacylation,LTEPP,ATTTT,DEPEVLTEPP,ATTTTTIGIS,9606
+P14923-1,Junction plakoglobin,14,Thr,o-linked|o-glcnacylation,QPIKV,EWQQT,MNLMEQPIKV,EWQQTYTYDS,9606
+Q14118-1,Dystroglycan 1,485,Ser,o-linked|other,IRTTT,GVPRG,SPPTRIRTTT,GVPRGGEPNQ,9606
+Q68CP9-1,AT-rich interactive domain-containing protein 2,1496,Ser,o-linked|o-glcnacylation,SKVSH,PALSS,VPDSGSKVSH,PALSSDVRST,9606
+Q8IY57-1,YY1-associated factor 2,141,Ser,o-linked|o-glcnacylation,SPPAS,AASAD,KEKTKSPPAS,AASADQHSQS,9606
+P13611-1,Versican core protein,642,Thr,o-linked|other,GKYLS,TPFPS,TEEFLGKYLS,TPFPSQHRTE,9606
+Q9UN79-1,Transcription factor SOX-13,307,Thr,o-linked|o-glcnacylation,PELPN,SSSPS,AKPKAPELPN,SSSPSLKMSS,9606
+Q86UU0-1,B-cell CLL/lymphoma 9-like protein,1010,Ser,o-linked|o-glcnacylation,PGWVA,PKTAM,MAVPSPGWVA,PKTAMPSPGV,9606
+O95373-1,Importin-7,102,Ser,o-linked|o-glcnacylation;o-linked|other,EAIIH,PELIR,RENIVEAIIH,PELIRVQLTT,9606
+P35968-1,Vascular endothelial growth factor receptor 2,1235,Ser,o-linked|o-glcnacylation,KSRPV,VKTFE,QNSKRKSRPV,VKTFEDIPLE,9606
+Q8WXI7-1,Mucin-16,6948,Ser,o-linked|other,RESTY,LTPGL,TTKIKRESTY,LTPGLRETSI,9606
+P29317-1,Ephrin type-A receptor 2,277,Ser,o-linked|other,ACQAC,PGFFK,EKVEDACQAC,PGFFKFEASE,9606
+Q13206-1,Probable ATP-dependent RNA helicase DDX10,611,Ser,o-linked|o-glcnacylation,SLPNT,EAQKI,GSQAPSLPNT,EAQKIKEVPT,9606
+Q9H1H9-1,Kinesin-like protein KIF13A,636,Ser,o-linked|o-glcnacylation,LRQQL,PDRQP,RELEQLRQQL,PDRQPQSSGP,9606
+Q14247-1,Src substrate cortactin,399,Thr,o-linked|o-glcnacylation,QARAK,QTPPV,RKLEEQARAK,QTPPVSPAPQ,9606
+P05787-1,"Keratin, type II cytoskeletal 8",14,Thr,o-linked|o-glcnacylation,SYKVS,SGPRA,RVTQKSYKVS,SGPRAFSSRS,9606
+Q5JTH9-1,RRP12-like protein,646,Thr,o-linked|o-glcnacylation,KGLAR,LGMAI,VAISFKGLAR,LGMAISERPD,9606
+Q86YP4-1,Transcriptional repressor p66-alpha,598,Ser,o-linked|o-glcnacylation,TLAFV,PSLAV,LSTGGTLAFV,PSLAVHKSSS,9606
+P55212-1,Caspase-6,79,Ser,o-linked|o-glcnacylation;o-linked|other,LTRRF,DLGFE,ADRDNLTRRF,DLGFEVKCFN,9606
+O60885-1,Bromodomain-containing protein 4,1212,Thr,o-linked|o-glcnacylation,QKHPT,PSSTA,WASLVQKHPT,PSSTAKSSSD,9606
+Q9NZN8-1,CCR4-NOT transcription complex subunit 2,114,Thr,o-linked|o-glcnacylation,HVTPT,GVPTM,TQLPSHVTPT,GVPTMSLHTP,9606
+P35658-1,Nuclear pore complex protein Nup214,1354,Ser,o-linked|o-glcnacylation;o-linked|other,TNKAS,TSLTS,DSTKPTNKAS,TSLTSTQPTK,9606
+P05787-1,"Keratin, type II cytoskeletal 8",13,Ser,o-linked|o-glcnacylation,KSYKV,TSGPR,IRVTQKSYKV,TSGPRAFSSR,9606
+Q14145-1,Kelch-like ECH-associated protein 1,104,Ser,o-linked|o-glcnacylation,VLASS,PVFKA,MAHKVVLASS,PVFKAMFTNG,9606
+Q15942-1,Zyxin,202,Ser,o-linked|o-glcnacylation,LPPWK,PSSSQ,GGTAPLPPWK,PSSSQPLPQV,9606
+Q0JRZ9-1,F-BAR domain only protein 2,380,Ser,o-linked|o-glcnacylation,DELKV,IGNIT,TMASLDELKV,IGNITLSPAI,9606
+Q7KZ85-1,Transcription elongation factor SPT6,1523,Thr,o-linked|o-glcnacylation,PVPGI,PSSSS,DHYQDPVPGI,PSSSSRTRTP,9606
+Q8IYB3-1,Serine/arginine repetitive matrix protein 1,551,Ser,o-linked|o-glcnacylation,RRRSP,PPPTR,SPRGRRRRSP,PPPTRRRRSP,9606
+P08670-1,Vimentin,22,Ser,o-linked|o-glcnacylation;o-linked|other,GPGTA,RPSSS,RRMFGGPGTA,RPSSSRSYVT,9606
+Q96HC4-1,PDZ and LIM domain protein 5,111,Ser,o-linked|o-glcnacylation;o-linked|other,PVPIT,PAVSK,KEVVKPVPIT,PAVSKVTSTN,9606
+Q9H2U2-1,"Inorganic pyrophosphatase 2, mitochondrial",28,Ser,o-linked|o-glcnacylation,SAGTG,RRAMA,LRLGTSAGTG,RRAMALYHTE,9606
+Q8N307-1,Mucin-20,547,Ser,o-linked|other,SYVKV,GAAPV,SVETPSYVKV,GAAPVSIEAG,9606
+P18887-1,DNA repair protein XRCC1,226,Ser,o-linked|o-glcnacylation,AASSA,PVSRA,LQASSAASSA,PVSRAIGSTS,9606
+Q8IY95-1,Transmembrane protein 192,269,Ser,o-linked|o-glcnacylation,LGCQP,RT,LTSSDLGCQP,RT,9606
+Q5JRA6-1,Transport and Golgi organization protein 1 homolog,293,Thr,o-linked|other,SDDET,RLVTS,ADALVSDDET,RLVTSLEDDF,9606
+P50402-1,Emerin,49,Ser,o-linked|o-glcnacylation,QRRRL,PPSSS,FEYETQRRRL,PPSSSAASSY,9606
+Q86X29-1,Lipolysis-stimulated lipoprotein receptor,515,Ser,o-linked|other,SRSPT,NGGRS,TAESGSRSPT,NGGRSRAYMP,9606
+P46100-1,Transcriptional regulator ATRX,704,Ser,o-linked|o-glcnacylation,DKRNS,DSAID,PVRKKDKRNS,DSAIDNPKPN,9606
+Q9UKX7-1,Nuclear pore complex protein Nup50,284,Ser,o-linked|o-glcnacylation,SSVLG,LSSVP,GKKVDSSVLG,LSSVPLTGFS,9606
+O95197-1,Reticulon-3,234,Ser,o-linked|o-glcnacylation,SPSKV,GDDVI,YTYSLSPSKV,GDDVIEKDSP,9606
+Q96HA1-1,Nuclear envelope pore membrane protein POM 121,697,Ser,o-linked|o-glcnacylation,ATSAP,PAPKQ,ATKPQATSAP,PAPKQSFLFG,9606
+Q8WW01-1,tRNA-splicing endonuclease subunit Sen15,10,Thr,o-linked|o-glcnacylation,GDSEP,PGCSG,MEERGDSEP,PGCSGLGPGG,9606
+P04632-1,Calpain small subunit 1,153,Ser,o-linked|other,VAVMD,DTTGK,TCRSMVAVMD,DTTGKLGFEE,9606
+P22681-1,E3 ubiquitin-protein ligase CBL,512,Ser,o-linked|o-glcnacylation,VCVPS,ASALG,LLPQRVCVPS,ASALGTASKA,9606
+P61769-1,Beta-2-microglobulin,72,Ser,o-linked|o-glcnacylation,EKVEH,DLSFS,NGERIEKVEH,DLSFSKDWSF,9606
+Q9UPN6-1,SR-related and CTD-associated factor 8,619,Thr,o-linked|o-glcnacylation,TTQSP,PVEKE,KETVQTTQSP,PVEKETVVTT,9606
+Q92945-1,Far upstream element-binding protein 2,54,Ser,o-linked|o-glcnacylation,GPGGG,AGGPS,GPGGGGPGGG,AGGPSQPPGG,9606
+Q86X29-1,Lipolysis-stimulated lipoprotein receptor,510,Ser,o-linked|other,TAESG,RSPTS,LTPPSTAESG,RSPTSNGGRS,9606
+P28329-1,Choline O-acetyltransferase,373,Thr,o-linked|o-glcnacylation,LVKDS,NRDSL,EARTVLVKDS,NRDSLDMIER,9606
+P05787-1,"Keratin, type II cytoskeletal 8",36,Ser,o-linked|o-glcnacylation,SRISS,SFSRV,TSGPGSRISS,SFSRVGSSNF,9606
+O14497-1,AT-rich interactive domain-containing protein 1A,764,Ser,o-linked|o-glcnacylation,MPQYS,PQPGS,QRNPQMPQYS,PQPGSALSPR,9606
+Q6UN15-1,Pre-mRNA 3'-end-processing factor FIP1,244,Ser,o-linked|o-glcnacylation,GRTGN,EKETA,FKVQQGRTGN,EKETALPSTK,9606
+Q15942-1,Zyxin,13,Ser,o-linked|o-glcnacylation;o-linked|other,PAISV,VSAPA,APRPSPAISV,VSAPAFYAPQ,9606
+Q15942-1,Zyxin,306,Thr,o-linked|o-glcnacylation,ALSAG,GSPQP,LGHPEALSAG,GSPQPPSFTY,9606
+Q8IVF2-1,Protein AHNAK2,1181,Ser,o-linked|o-glcnacylation,SAPGK,IEASV,PSFGASAPGK,IEASVDVSAP,9606
+P46100-1,Transcriptional regulator ATRX,52,Ser,o-linked|o-glcnacylation,ISGSG,NSDMM,QNTDKISGSG,NSDMMENSKE,9606
+Q92954-1,Proteoglycan 4,978,Thr,o-linked|other;o-linked|o-galnacylation,ITTLK,TTLAP,TTPFKITTLK,TTLAPKVTTT,9606
+Q9NYF8-1,Bcl-2-associated transcription factor 1,485,Ser,o-linked|o-glcnacylation,EEDKN,ERITV,KDKHKEEDKN,ERITVKKETQ,9606
+P10321-1,"HLA class I histocompatibility antigen, C alpha chain",112,Ser,o-linked|o-glcnacylation,GYYNQ,EDGSH,LRNLRGYYNQ,EDGSHTLQRM,9606
+Q8WUM0-1,Nuclear pore complex protein Nup133,45,Ser,o-linked|o-glcnacylation,GSAVS,PVLFS,KGLPLGSAVS,PVLFSPVGRR,9606
+P30622-3,CAP-Gly domain-containing linker protein 1,143,Ser,o-linked|o-glcnacylation;o-linked|other,QTTPA,RATSP,EANGLQTTPA,RATSPLCTST,9606
+P30622-3,CAP-Gly domain-containing linker protein 1,189,Thr,o-linked|o-glcnacylation,PISNL,KTASE,PSATPPISNL,KTASESISNL,9606
+O00267-1,Transcription elongation factor SPT5,775,Thr,o-linked|o-glcnacylation,MYGSQ,PMYGS,YGRTPMYGSQ,PMYGSGSRTP,9606
+P98175-1,RNA-binding protein 10,31,Ser,o-linked|o-glcnacylation,GGENR,RDHDY,RSQDDGGENR,RDHDYRDMDY,9606
+Q96ST2-1,Protein IWS1 homolog,248,Ser,o-linked|o-glcnacylation,PKPRI,DSESE,ENEELPKPRI,DSESEDPPRH,9606
+Q96DF8-1,Splicing factor ESS-2 homolog,446,Ser,o-linked|o-glcnacylation,TPAPG,ATRTP,QTPTSTPAPG,ATRTPLTQDP,9606
+Q96Q06-1,Perilipin-4,526,Thr,o-linked|o-glcnacylation,VDTTK,VLTGT,TVQTGVDTTK,VLTGTKDTVC,9606
+Q15750-1,TGF-beta-activated kinase 1 and MAP3K7-binding protein 1,395,Ser,o-linked|o-glcnacylation;o-linked|other,VSVPY,SAQST,GRVYPVSVPY,SAQSTSKTSV,9606
+P35658-1,Nuclear pore complex protein Nup214,440,Ser,o-linked|o-glcnacylation;o-linked|other,PTTPT,SQAPQ,SPGSTPTTPT,SQAPQKLDAS,9606
+P20930-1,Filaggrin,3737,Ser,o-linked|o-glcnacylation,GGRQG,RHEQA,AGPSTGGRQG,RHEQARDSSR,9606
+Q15942-1,Zyxin,250,Thr,o-linked|o-glcnacylation,VSLAN,QPRGP,SQTQPVSLAN,QPRGPPASSP,9606
+Q76NI1-1,Kinase non-catalytic C-lobe domain-containing protein 1,1145,Thr,o-linked|o-glcnacylation,RNYRK,LKFYQ,LMMEKRNYRK,LKFYQKLLQK,9606
+Q15648-1,Mediator of RNA polymerase II transcription subunit 1,1215,Thr,o-linked|o-glcnacylation,KPVPG,PPSSK,LASPMKPVPG,PPSSKAKSPI,9606
+Q01082-1,"Spectrin beta chain, non-erythrocytic 1",2320,Thr,o-linked|o-glcnacylation;o-linked|other,ASTQS,PASSR,KHEVSASTQS,PASSRAQTLP,9606
+P04080-1,Cystatin-B,9,Thr,o-linked|o-glcnacylation,GAPSA,QPATA,MMCGAPSA,QPATAETQHI,9606
+P00519-1,Tyrosine-protein kinase ABL1,855,Ser,o-linked|o-glcnacylation,PVTPT,KAGSG,PAAAEPVTPT,KAGSGAPGGT,9606
+Q12968-1,"Nuclear factor of activated T-cells, cytoplasmic 3",82,Ser,o-linked|o-glcnacylation,SFQLQ,HKNYE,SVLSPSFQLQ,HKNYEGTCEI,9606
+Q9UQ84-1,Exonuclease 1,732,Thr,o-linked|o-glcnacylation,FSKKD,PLRNK,LRLSHFSKKD,PLRNKVPGLY,9606
+P49790-1,Nuclear pore complex protein Nup153,632,Thr,o-linked|o-glcnacylation;o-linked|other,AQPTA,SPVVY,IDSVAAQPTA,SPVVYTRPAI,9606
+P07197-1,Neurofilament medium polypeptide,28,Ser,o-linked|o-glcnacylation,SFSRV,GSPSS,TETRSSFSRV,GSPSSGFRSQ,9606
+Q8IVL0-1,Neuron navigator 3,988,Ser,o-linked|o-glcnacylation,VSQTG,WRRGM,KASLSVSQTG,WRRGMSAQGG,9606
+P49848-1,Transcription initiation factor TFIID subunit 6,602,Ser,o-linked|o-glcnacylation,PSGPG,VQKYI,PPSTAPSGPG,VQKYIVVSLP,9606
+Q04724-1,Transducin-like enhancer protein 1,290,Thr,o-linked|o-glcnacylation,SSPAS,ASSAS,KKDASSSPAS,ASSASSTSLK,9606
+Q8N365-1,Circadian-associated transcriptional repressor,58,Ser,o-linked|o-glcnacylation,GGSRP,PGPIR,TVGQRGGSRP,PGPIRCRHRS,9606
+P35658-1,Nuclear pore complex protein Nup214,1284,Thr,o-linked|o-glcnacylation,SASNT,PGEPA,PSGITSASNT,PGEPAASSSR,9606
+Q6Y7W6-1,GRB10-interacting GYF protein 2,993,Ser,o-linked|o-glcnacylation,GWGNV,KPSGT,QQKLSGWGNV,KPSGTTKSLL,9606
+Q9UHY8-1,Fasciculation and elongation protein zeta-2,200,Thr,o-linked|o-glcnacylation,SQEIQ,LKRSS,RLSMLSQEIQ,LKRSSTGSYE,9606
+Q16566-1,Calcium/calmodulin-dependent protein kinase type IV,345,Ser,o-linked|o-glcnacylation,GSASS,HGSIQ,ASSRLGSASS,HGSIQESHKA,9606
+P49023-1,Paxillin,85,Ser,o-linked|o-glcnacylation,QPQSS,PVYGS,RFIHQQPQSS,PVYGSSAKTS,9606
+P51610-1,Host cell factor 1,788,Ser,o-linked|o-glcnacylation;o-linked|other,ATGVT,SPGIK,ITQAGATGVT,SPGIKSPITI,9606
+Q9NZN8-1,CCR4-NOT transcription complex subunit 2,101,Ser,o-linked|o-glcnacylation,LNRSL,QGTQL,NNTPQLNRSL,QGTQLPSHVT,9606
+P22681-1,E3 ubiquitin-protein ligase CBL,601,Ser,o-linked|o-glcnacylation;o-linked|other,PKVPV,APSSS,LPRPIPKVPV,APSSSDPWTG,9606
+Q8WXI7-1,Mucin-16,6383,Thr,o-linked|other,GSSSD,STVFD,TSQKIGSSSD,STVFDKAFTA,9606
+Q8IXS8-1,Hyccin 2,402,Ser,o-linked|o-glcnacylation,ESPRD,VVRKQ,AIKSSESPRD,VVRKQYVQQP,9606
+O60826-1,Coiled-coil domain-containing protein 22,529,Ser,o-linked|o-glcnacylation,EINSL,GKLDR,KELQKEINSL,GKLDRTFAVT,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,2302,Thr,o-linked|o-glcnacylation,LAGAR,PAALA,APAVNLAGAR,PAALAALSLT,9606
+P49023-1,Paxillin,84,Ser,o-linked|o-glcnacylation,QQPQS,SPVYG,SRFIHQQPQS,SPVYGSSAKT,9606
+Q14247-1,Src substrate cortactin,332,Ser,o-linked|o-glcnacylation,VTQVS,AYQKT,STFEDVTQVS,AYQKTVPVEA,9606
+Q7Z6B7-1,SLIT-ROBO Rho GTPase-activating protein 1,1001,Thr,o-linked|o-glcnacylation,VKNSP,PATST,DTLEQVKNSP,PATSTESLSP,9606
+P52948-1,Nuclear pore complex protein Nup98-Nup96,1014,Ser,o-linked|o-glcnacylation,LDQRF,RLPSK,DVDMALDQRF,RLPSKADTSQ,9606
+Q9Y4H2-1,Insulin receptor substrate 2,523,Ser,o-linked|o-glcnacylation,SNTPE,IAETP,FCSHRSNTPE,IAETPPARDG,9606
+Q6P4E1-4,Protein GOLM2,277,Ser,o-linked|other,PPISV,QHESH,PALRKPPISV,QHESHQAISH,9606
+P80303-1,Nucleobindin-2,42,Ser,o-linked|other;o-linked|o-glcnacylation,IHPVE,AKIEP,TKVQNIHPVE,AKIEPPDTGL,9606
+O75376-1,Nuclear receptor corepressor 1,1479,Thr,o-linked|o-glcnacylation,GIYDD,SARRT,AQLSPGIYDD,SARRTPVSYQ,9606
+Q92878-1,DNA repair protein RAD50,703,Ser,o-linked|o-glcnacylation,ISDLQ,KLRLA,ELQEVISDLQ,KLRLAPDKLK,9606
+Q8WXI7-1,Mucin-16,8120,Thr,o-linked|other,PTSSL,LGLRK,RIQTEPTSSL,LGLRKTSSSE,9606
+Q96B36-1,Proline-rich AKT1 substrate 1,183,Ser,o-linked|o-glcnacylation,QQYAK,LPVSV,SALPTQQYAK,LPVSVPVWGF,9606
+Q9ULT8-1,E3 ubiquitin-protein ligase HECTD1,1357,Thr,o-linked|o-glcnacylation,TVSGT,QSWSS,KPVSSTVSGT,QSWSSLVKNN,9606
+P52948-1,Nuclear pore complex protein Nup98-Nup96,568,Thr,o-linked|o-glcnacylation,KALQT,GTAKS,TRVRPKALQT,GTAKSHLFDG,9606
+P08047-1,Transcription factor Sp1,698,Ser,o-linked|o-glcnacylation,KRFMR,DHLSK,CPECPKRFMR,DHLSKHIKTH,9606
+Q9H4A3-1,Serine/threonine-protein kinase WNK1,1285,Ser,o-linked|o-glcnacylation;o-linked|other,DTVAA,TAQSP,PSEITDTVAA,TAQSPGMNLS,9606
+Q96JY6-1,PDZ and LIM domain protein 2,144,Ser,o-linked|o-glcnacylation,PPSSS,LTGEA,SPFSPPPSSS,LTGEAAISRS,9606
+P04792-1,Heat shock protein beta-1,187,Ser,o-linked|o-glcnacylation,PVTFE,RAQLG,NEITIPVTFE,RAQLGGPEAA,9606
+Q9UM11-1,Fizzy-related protein homolog,40,Ser,o-linked|o-glcnacylation,SSPVS,PSKHG,TLTPASSPVS,PSKHGDRFIP,9606
+P78362-1,SRSF protein kinase 2,492,Thr,o-linked|o-glcnacylation,HDRSR,VSASS,ESSPSHDRSR,VSASSTGDLP,9606
+Q14694-1,Ubiquitin carboxyl-terminal hydrolase 10,95,Thr,o-linked|o-glcnacylation,FILGC,ASKIT,PQAPEFILGC,ASKITPDGIT,9606
+P15311-1,Ezrin,358,Thr,o-linked|o-glcnacylation,DYEEK,KKAER,MLRLQDYEEK,KKAERELSEQ,9606
+O14545-1,TRAF-type zinc finger domain-containing protein 1,326,Ser,o-linked|o-glcnacylation,LNTGS,SPRGV,RALPSLNTGS,SPRGVEEPDV,9606
+Q9Y2X9-1,Zinc finger protein 281,445,Ser,o-linked|o-glcnacylation;o-linked|other,EMPTV,SSGGI,QSYSVEMPTV,SSGGIIGTGI,9606
+O43324-1,Eukaryotic translation elongation factor 1 epsilon-1,8,Ser,o-linked|o-glcnacylation,AAAEL,LLEKS,MAAAAEL,LLEKSLGLSK,9606
+P52948-1,Nuclear pore complex protein Nup98-Nup96,1054,Thr,o-linked|o-glcnacylation,LQSKF,SGAFL,LVGGLLQSKF,SGAFLSPSVS,9606
+Q8BMB0-1,BRCA2-interacting transcriptional repressor EMSY,192,Ser,o-linked|o-glcnacylation,AVVPV,KTITV,KEVPKAVVPV,KTITVPVSGS,10090
+Q9UNF1-1,Melanoma-associated antigen D2,81,Thr,o-linked|o-glcnacylation,REAPA,QASST,KTPEAREAPA,QASSTTQLTD,9606
+Q8N122-1,Regulatory-associated protein of mTOR,706,Thr,o-linked|o-glcnacylation,EGGSL,PVRDS,SPATTEGGSL,PVRDSPCTPR,9606
+Q02446-1,Transcription factor Sp4,589,Thr,o-linked|o-glcnacylation,GIANA,IGAVS,TVAVGGIANA,IGAVSPDQLT,9606
+P63261-1,"Actin, cytoplasmic 2",297,Thr,o-linked|o-glcnacylation,DLYAN,VLSGG,VDIRKDLYAN,VLSGGTTMYP,9606
+P35568-1,Insulin receptor substrate 1,984,Ser,o-linked|o-glcnacylation;o-linked|other,TRAVP,SRGDY,SICRPTRAVP,SRGDYMTMQM,9606
+O00391-1,Sulfhydryl oxidase 1,593,Thr,o-linked|other,SPTNT,PHVPA,PEMMKSPTNT,PHVPAEGPEA,9606
+P49790-1,Nuclear pore complex protein Nup153,529,Ser,o-linked|o-glcnacylation,MFKFS,PIVKS,STGSPMFKFS,PIVKSTEANV,9606
+Q13887-1,Krueppel-like factor 5,153,Ser,o-linked|o-glcnacylation,TGLYK,QRPCV,ITHLRTGLYK,QRPCVTHIKT,9606
+Q9Y3S1-1,Serine/threonine-protein kinase WNK2,1611,Thr,o-linked|o-glcnacylation,SASAG,PVEVG,HVPTSSASAG,PVEVGDRDFT,9606
+Q8IZ21-1,Phosphatase and actin regulator 4,202,Thr,o-linked|o-glcnacylation,RFIIS,SITTA,SGGTARFIIS,SITTAPAATT,9606
+Q7Z6B7-1,SLIT-ROBO Rho GTPase-activating protein 1,999,Ser,o-linked|o-glcnacylation,EQVKN,PTPAT,VLDTLEQVKN,PTPATSTESL,9606
+P35658-1,Nuclear pore complex protein Nup214,504,Ser,o-linked|o-glcnacylation,PPSYS,GSDSS,TVTGEPPSYS,GSDSSKAAPG,9606
+Q8N1F7-1,Nuclear pore complex protein Nup93,55,Thr,o-linked|o-glcnacylation,RTSQE,ADVKA,SRTLTRTSQE,ADVKASVLLG,9606
+P78312-1,Protein FAM193A,273,Thr,o-linked|o-glcnacylation,SSSPI,IQQHP,SSGSGSSSPI,IQQHPRLILT,9606
+Q9Y6X9-1,ATPase MORC2,733,Thr,o-linked|o-glcnacylation,KLSPA,PSRKR,TESPIKLSPA,PSRKRSVAVS,9606
+P30622-3,CAP-Gly domain-containing linker protein 1,140,Thr,o-linked|o-glcnacylation,NGLQT,PASRA,AEDEANGLQT,PASRATSPLC,9606
+Q3YEC7-1,Rab-like protein 6,525,Ser,o-linked|o-glcnacylation,WPGGV,VRTGP,TAAPPWPGGV,VRTGPEKRSS,9606
+Q9NPG3-1,Ubinuclein-1,996,Ser,o-linked|o-glcnacylation,PSLKP,AVSSV,KLLTSPSLKP,AVSSVTSSTS,9606
+Q14980-1,Nuclear mitotic apparatus protein 1,1844,Ser,o-linked|o-glcnacylation,RSAPA,QASLR,SFYSTRSAPA,QASLRATSST,9606
+Q01167-1,Forkhead box protein K2,424,Ser,o-linked|o-glcnacylation,ARFAQ,APGSP,AVIQEARFAQ,APGSPLSSQP,9606
+Q92954-1,Proteoglycan 4,962,Ser,o-linked|other;o-linked|o-galnacylation,TTQVT,TTTQD,KITATTTQVT,TTTQDTTPFK,9606
+P31749-1,RAC-alpha serine/threonine-protein kinase,129,Ser,o-linked|o-glcnacylation,SPSDN,GAEEM,DFRSGSPSDN,GAEEMEVSLA,9606
+P35658-1,Nuclear pore complex protein Nup214,1081,Ser,o-linked|o-glcnacylation,KHGAP,PSHPI,ATKTVKHGAP,PSHPISAPQA,9606
+Q96PY5-1,Formin-like protein 2,190,Ser,o-linked|o-glcnacylation,VGNSV,RSGRH,NLPSPVGNSV,RSGRHSALRY,9606
+Q9UKX7-1,Nuclear pore complex protein Nup50,259,Thr,o-linked|o-glcnacylation,ASEKK,DPSSL,KKMEVASEKK,DPSSLGATSA,9606
+Q9UPQ0-1,LIM and calponin homology domains-containing protein 1,506,Thr,o-linked|o-glcnacylation,ATVET,IARAS,PPKFTATVET,IARASVLDTS,9606
+P08047-1,Transcription factor Sp1,641,Ser,o-linked|o-glcnacylation,VYGKT,HLRAH,QGCGKVYGKT,HLRAHLRWHT,9606
+P06733-1,Alpha-enolase,272,Ser,o-linked|o-glcnacylation,PSRYI,PDQLA,KSPDDPSRYI,PDQLADLYKS,9606
+Q12857-1,Nuclear factor 1 A-type,360,Ser,o-linked|o-glcnacylation,TGPRA,PHATP,HRPVITGPRA,PHATPSTLHF,9606
+P51610-1,Host cell factor 1,498,Thr,o-linked|o-glcnacylation;o-linked|other,QATTG,PLVTM,KVTGPQATTG,PLVTMRPASQ,9606
+Q96KR1-1,Zinc finger RNA-binding protein,963,Ser,o-linked|o-glcnacylation,ASSPQ,PGDAL,KAISSASSPQ,PGDALRRVFE,9606
+Q8N1F7-1,Nuclear pore complex protein Nup93,51,Thr,o-linked|o-glcnacylation,RTLTR,SQETA,ERLRSRTLTR,SQETADVKAS,9606
+Q99808-1,Equilibrative nucleoside transporter 1,63,Ser,o-linked|other;o-linked|o-glcnacylation,KDAQA,AAPAA,TAELSKDAQA,AAPAAPLPER,9606
+Q5T5U3-1,Rho GTPase-activating protein 21,483,Ser,o-linked|o-glcnacylation,QGALT,PSVSF,PRSASQGALT,PSVSFSNHRT,9606
+Q5VUB5-1,Protein FAM171A1,420,Ser,o-linked|o-glcnacylation,LKLSY,TSQEF,LHTPMLKLSY,TSQEFSSREE,9606
+Q92985-1,Interferon regulatory factor 7,93,Thr,o-linked|o-glcnacylation,RAGWK,NFRCA,AETAERAGWK,NFRCALRSTR,9606
+P04406-1,Glyceraldehyde-3-phosphate dehydrogenase,210,Ser,o-linked|o-glcnacylation,NIIPA,TGAAK,RGALQNIIPA,TGAAKAVGKV,9606
+Q7LDG7-1,RAS guanyl-releasing protein 2,587,Ser,o-linked|o-glcnacylation,PGRRG,RPPEI,FSLPRPGRRG,RPPEIREEEV,9606
+Q8N1F7-1,Nuclear pore complex protein Nup93,52,Ser,o-linked|o-glcnacylation,TLTRT,QETAD,RLRSRTLTRT,QETADVKASV,9606
+P35658-1,Nuclear pore complex protein Nup214,437,Thr,o-linked|o-glcnacylation,GSTPT,PTSSQ,QPKSPGSTPT,PTSSQAPQKL,9606
+Q96HA1-1,Nuclear envelope pore membrane protein POM 121,958,Ser,o-linked|o-glcnacylation,GSSAK,PLPSY,FNIPFGSSAK,PLPSYPGANP,9606
+O00461-1,Golgi integral membrane protein 4,246,Ser,o-linked|other,LNRIP,LRKPD,QLKDTLNRIP,LRKPDPAEQQ,9606
+Q3T906-1,N-acetylglucosamine-1-phosphotransferase subunits alpha/beta,844,Ser,o-linked|other,IVPLE,QMTKE,KPPSLIVPLE,QMTKEKKITG,9606
+Q92766-1,Ras-responsive element-binding protein 1,120,Ser,o-linked|o-glcnacylation,HMLVH,GERPY,SSLDRHMLVH,GERPYKCTVC,9606
+P08670-1,Vimentin,47,Ser,o-linked|o-glcnacylation,SALRP,TSRSL,TYSLGSALRP,TSRSLYASSP,9606
+Q7Z589-1,BRCA2-interacting transcriptional repressor EMSY,1134,Ser,o-linked|o-glcnacylation,TSPVT,ISPIQ,SVPKLTSPVT,ISPIQASEKT,9606
+Q68CP9-1,AT-rich interactive domain-containing protein 2,676,Thr,o-linked|o-glcnacylation,VQGVH,VAQTV,QMSFPVQGVH,VAQTVSRIPQ,9606
+Q05682-1,Caldesmon,518,Ser,o-linked|o-glcnacylation,PGGRA,VDTKE,NTFSRPGGRA,VDTKEAEGAP,9606
+Q8WXI9-1,Transcriptional repressor p66-beta,489,Thr,o-linked|o-glcnacylation,ALSPT,APAVS,LQQQAALSPT,APAVSSVSKQ,9606
+P14543-1,Nidogen-1,333,Ser,o-linked|other,VPSVL,PRRAA,ADTYSVPSVL,PRRAATERPL,9606
+P46100-1,Transcriptional regulator ATRX,703,Ser,o-linked|o-glcnacylation,KDKRN,SDSAI,VPVRKKDKRN,SDSAIDNPKP,9606
+Q02818-1,Nucleobindin-1,47,Thr,o-linked|o-glcnacylation;o-linked|other,TESPD,GLYYH,EETPATESPD,GLYYHRYLQE,9606
+P04792-1,Heat shock protein beta-1,184,Thr,o-linked|o-glcnacylation,ITIPV,FESRA,TQSNEITIPV,FESRAQLGGP,9606
+P27816-1,Microtubule-associated protein 4,329,Ser,o-linked|o-glcnacylation,TETDV,SAKNV,DVRWPTETDV,SAKNVVLPTE,9606
+Q16186-1,Proteasomal ubiquitin receptor ADRM1,221,Thr,o-linked|o-glcnacylation;o-linked|other,VTPSS,TSSTR,SQSAAVTPSS,TSSTRATPAP,9606
+P54578-1,Ubiquitin carboxyl-terminal hydrolase 14,235,Thr,o-linked|o-glcnacylation,SASAA,PSKKK,ETDSSSASAA,PSKKKSLIDQ,9606
+O75376-1,Nuclear receptor corepressor 1,1491,Thr,o-linked|o-glcnacylation,VSYQN,MSRGS,ARRTPVSYQN,MSRGSPMMNR,9606
+P09603-1,Macrophage colony-stimulating factor 1,426,Ser,o-linked|other,AQPQL,RSHSS,PSTLSAQPQL,RSHSSGSVLP,9606
+Q14517-1,Protocadherin Fat 1,3760,Ser,o-linked|other,DESVM,THSTA,EKVSVDESVM,THSTARLSFV,9606
+P19075-1,Tetraspanin-8,134,Ser,o-linked|o-glcnacylation,SATGE,EKQFQ,NTKLLSATGE,EKQFQEAIIV,9606
+P68400-1,Casein kinase II subunit alpha,344,Thr,o-linked|o-glcnacylation,MPGGS,PVSSA,MGSSSMPGGS,PVSSANMMSG,9606
+P49790-1,Nuclear pore complex protein Nup153,522,Ser,o-linked|o-glcnacylation,PSSTG,PMFKF,VQMTSPSSTG,PMFKFSSPIV,9606
+P68871-1,Hemoglobin subunit beta,50,Ser,o-linked|o-glcnacylation,SFGDL,TPDAV,QRFFESFGDL,TPDAVMGNPK,9606
+Q12906-1,Interleukin enhancer-binding factor 3,382,Ser,o-linked|o-glcnacylation,DGEEK,PSKKK,RPMEEDGEEK,PSKKKKKIQK,9606
+Q9UKY7-1,Protein CDV3 homolog,137,Ser,o-linked|o-glcnacylation,GGMEK,SGPWN,GGGGGGGMEK,SGPWNKTAPV,9606
+P11388-1,DNA topoisomerase 2-alpha,1374,Ser,o-linked|o-glcnacylation,LKPQK,VVSDL,LSNKELKPQK,VVSDLEADDV,9606
+Q9ULT8-1,E3 ubiquitin-protein ligase HECTD1,1509,Ser,o-linked|o-glcnacylation,SQRPL,SSASN,NKEAASQRPL,SSASNRLSVS,9606
+P39880-1,Homeobox protein cut-like 1,749,Ser,o-linked|o-glcnacylation,KLLST,PMPTV,TILTPKLLST,PMPTVSSYPP,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,2335,Ser,o-linked|o-glcnacylation,PQAPA,ANLVG,SSSRTPQAPA,ANLVGPRSAH,9606
+Q68CP9-1,AT-rich interactive domain-containing protein 2,631,Ser,o-linked|o-glcnacylation,SVPDV,PAPSP,VVRVDSVPDV,PAPSPAGIPH,9606
+Q9NYF8-1,Bcl-2-associated transcription factor 1,502,Ser,o-linked|o-glcnacylation,PEQVK,EKLKD,KETQSPEQVK,EKLKDLFDYS,9606
+P08047-1,Transcription factor Sp1,453,Thr,o-linked|o-glcnacylation,PIIIR,PTVGP,VPNSGPIIIR,PTVGPNGQVS,9606
+Q9Y3R0-1,Glutamate receptor-interacting protein 1,285,Ser,o-linked|o-glcnacylation,IDKIK,ASIAD,KQVIVIDKIK,ASIADRCGAL,9606
+Q9UPV9-1,Trafficking kinesin-binding protein 1,719,Ser,o-linked|o-glcnacylation,TPRRL,LAESF,VATPCTPRRL,LAESFTNTRE,9606
+P07355-1,Annexin A2,153,Thr,o-linked|o-glcnacylation;o-linked|other,KEMYK,DLEKD,INRVYKEMYK,DLEKDIISDT,9606
+P48431-1,Transcription factor SOX-2,249,Ser,o-linked|o-glcnacylation,VKSEA,SSPPV,SMGSVVKSEA,SSPPVVTSSS,9606
+Q9H4A3-1,Serine/threonine-protein kinase WNK1,1849,Ser,o-linked|o-glcnacylation;o-linked|other,PVLAT,SGAGV,QVKEGPVLAT,SGAGVFKMGR,9606
+Q3U182-1,CREB-regulated transcription coactivator 2,171,Ser,o-linked|o-glcnacylation,LNRTS,DSALH,RLPSALNRTS,DSALHTSVMN,10090
+Q9Y210-1,Short transient receptor potential channel 6,14,Ser,o-linked|o-glcnacylation,PRRGS,PRGAA,SPAFGPRRGS,PRGAAGAAAR,9606
+Q01082-1,"Spectrin beta chain, non-erythrocytic 1",2328,Thr,o-linked|o-glcnacylation;o-linked|other,SSRAQ,LPTSV,QSTPASSRAQ,LPTSVVTITS,9606
+P17535-1,Transcription factor JunD,117,Thr,o-linked|o-glcnacylation;o-linked|other,GLVTT,PTSSQ,IIQSNGLVTT,PTSSQFLYPK,9606
+P17480-1,Nucleolar transcription factor 1,201,Thr,o-linked|o-glcnacylation,PEKPK,PQQLW,KKSDIPEKPK,PQQLWYTHEK,9606
+O15027-1,Protein transport protein Sec16A,1014,Ser,o-linked|o-glcnacylation,YNPSH,DSLAS,NPVNVYNPSH,DSLASQQSVA,9606
+P69905-1,Hemoglobin subunit alpha,82,Ser,o-linked|o-glcnacylation,MPNAL,ALSDL,AHVDDMPNAL,ALSDLHAHKL,9606
+Q9UJU6-1,Drebrin-like protein,295,Thr,o-linked|o-glcnacylation,LTQPE,HFGRE,FLQKQLTQPE,HFGREPAAAI,9606
+P02545-1,Prelamin-A/C,424,Thr,o-linked|o-glcnacylation,RKLES,ESRSS,SVTKKRKLES,ESRSSFSQHA,9606
+Q7Z3K3-1,Pogo transposable element with ZNF domain,282,Thr,o-linked|o-glcnacylation,QSNQT,NPKLA,VQSPGQSNQT,NPKLAPSFPS,9606
+Q99835-1,Protein smoothened,47,Ser,o-linked|o-glcnacylation,RSAGG,ARRSA,TGPGPRSAGG,ARRSAAVTGP,9606
+P27816-1,Microtubule-associated protein 4,580,Ser,o-linked|o-glcnacylation,DVPPL,ETEAT,VTPAKDVPPL,ETEATPVPIK,9606
+Q8NHH9-1,Atlastin-2,308,Ser,o-linked|o-glcnacylation,VATNP,FDGRL,HPGLKVATNP,FDGRLKDIDE,9606
+O95180-1,Voltage-dependent T-type calcium channel subunit alpha-1H,615,Thr,o-linked|o-glcnacylation,TMNYP,ILPSG,ATGLGTMNYP,ILPSGVGSGK,9606
+P04792-1,Heat shock protein beta-1,174,Thr,o-linked|o-glcnacylation,MPKLA,QSNEI,TVEAPMPKLA,QSNEITIPVT,9606
+Q86X29-1,Lipolysis-stimulated lipoprotein receptor,371,Ser,o-linked|other,AGGQG,YVPLL,DRSSSAGGQG,YVPLLRDTDS,9606
+O75113-1,NEDD4-binding protein 1,416,Ser,o-linked|o-glcnacylation,NKGVY,STNEL,TNKTKNKGVY,STNELTTDST,9606
+O95487-1,Protein transport protein Sec24B,13,Ser,o-linked|o-glcnacylation,SHPAA,ARIPP,APAGSSHPAA,ARIPPKFGGA,9606
+Q86X29-1,Lipolysis-stimulated lipoprotein receptor,467,Ser,o-linked|other,GHSPR,PRGWD,DEEWGGHSPR,PRGWDQEPAR,9606
+Q96RK0-1,Protein capicua homolog,982,Ser,o-linked|o-glcnacylation,LVPPL,PATLP,STPSGLVPPL,PATLPGPTSQ,9606
+O14974-1,Protein phosphatase 1 regulatory subunit 12A,601,Ser,o-linked|o-glcnacylation;o-linked|other,ITTGS,SAGTQ,STTTKITTGS,SAGTQSSTSN,9606
+Q6P4E1-4,Protein GOLM2,232,Ser,o-linked|other,KNEEP,SNHIP,ENVADKNEEP,SNHIPHGKEQ,9606
+P17275-1,Transcription factor JunB,102,Thr,o-linked|o-glcnacylation,GVITT,PTPPG,VPNSNGVITT,PTPPGQYFYP,9606
+P42166-1,"Lamina-associated polypeptide 2, isoform alpha",295,Ser,o-linked|o-glcnacylation,KSSSS,SQPEH,DRCLEKSSSS,SQPEHSAMLV,9606
+Q92793-1,CREB-binding protein,2322,Ser,o-linked|o-glcnacylation,QQHML,GQPQA,NPMSPQQHML,GQPQASHLPG,9606
+P02545-1,Prelamin-A/C,643,Thr,o-linked|o-glcnacylation,GDNLV,RSYLL,GGGSFGDNLV,RSYLLGNSSP,9606
+P35658-1,Nuclear pore complex protein Nup214,1185,Ser,o-linked|o-glcnacylation,ASGQL,SGDKA,SGPTPASGQL,SGDKASGTAK,9606
+P50454-1,Serpin H1,70,Ser,o-linked|o-glcnacylation,ENILV,PVVVA,KDQAVENILV,PVVVASSLGL,9606
+Q9UL51-1,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2,792,Thr,o-linked|o-glcnacylation,PRAPR,SPYGG,GAPASPRAPR,SPYGGLPAAP,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,1674,Ser,o-linked|o-glcnacylation,GDMDV,VPKVE,GPKVKGDMDV,VPKVEGEMKV,9606
+P21333-1,Filamin-A,1557,Thr,o-linked|o-glcnacylation;o-linked|other,GPGLN,TGVPA,KVKASGPGLN,TGVPASLPVE,9606
+P49792-1,E3 SUMO-protein ligase RanBP2,1640,Ser,o-linked|o-glcnacylation,QNQTT,AVSTP,QNPGKQNQTT,AVSTPASSET,9606
+O43237-1,Cytoplasmic dynein 1 light intermediate chain 2,410,Thr,o-linked|o-glcnacylation,SSSPG,SVKKP,PASVPSSSPG,SVKKPDPNIK,9606
+P27816-1,Microtubule-associated protein 4,358,Ser,o-linked|o-glcnacylation,ETERA,PIKMD,VTLLKETERA,PIKMDLAPSK,9606
+Q9H1B7-1,Probable E3 ubiquitin-protein ligase IRF2BPL,7,Ser,o-linked|o-glcnacylation,SAAQV,SSRRQ,MSAAQV,SSRRQSCYLC,9606
+P08047-1,Transcription factor Sp1,702,Ser,o-linked|o-glcnacylation,RSDHL,KHIKT,PKRFMRSDHL,KHIKTHQNKK,9606
+P05787-1,"Keratin, type II cytoskeletal 8",58,Ser,o-linked|o-glcnacylation,GYGGA,GMGGI,GGLGGGYGGA,GMGGITAVTV,9606
+Q12830-1,Nucleosome-remodeling factor subunit BPTF,1715,Thr,o-linked|o-glcnacylation,VITEV,TMTST,SKRKTVITEV,TMTSTVATES,9606
+Q9NY99-1,Gamma-2-syntrophin,87,Ser,o-linked|o-glcnacylation;o-linked|other,GGLGL,IKGGS,RRQPVGGLGL,IKGGSEHNVP,9606
+P31327-1,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",537,Ser,o-linked|o-glcnacylation,KVLGT,VESIM,KEYGVKVLGT,VESIMATEDR,9606
+Q14847-1,LIM and SH3 domain protein 1,166,Thr,o-linked|o-glcnacylation,PHHIP,SAPVY,LEQQQPHHIP,SAPVYQQPQQ,9606
+Q53QZ3-1,Rho GTPase-activating protein 15,196,Ser,o-linked|o-glcnacylation,LPKDS,CPSRN,NAIDRLPKDS,CPSRNLELFK,9606
+Q6S8J3-1,POTE ankyrin domain family member E,971,Ser,o-linked|o-glcnacylation,FLGME,CGIHE,LFQPCFLGME,CGIHETTFNS,9606
+O14974-1,Protein phosphatase 1 regulatory subunit 12A,781,Ser,o-linked|o-glcnacylation,SSTTP,SSLST,PVSTSSSTTP,SSLSTMSSSL,9606
+P23769-1,Endothelial transcription factor GATA-2,192,Ser,o-linked|o-glcnacylation,TTGAA,PASSS,SPDPSTTGAA,PASSSAGGSA,9606
+Q7KZ85-1,Transcription elongation factor SPT6,1539,Thr,o-linked|o-glcnacylation,ASINA,PANIN,RTRTPASINA,PANINLADLT,9606
+P11940-1,Polyadenylate-binding protein 1,635,Thr,o-linked|o-glcnacylation,ATGVP,V,KAVNSATGVP,V,9606
+P81877-1,Single-stranded DNA-binding protein 2,9,Ser,o-linked|o-glcnacylation,KGKSN,SAVPS,MYGKGKSN,SAVPSDSQAR,9606
+Q92615-1,La-related protein 4B,585,Ser,o-linked|o-glcnacylation,VSREP,VPASC,TLPVVVSREP,VPASCAVSAT,9606
+P06396-1,Gelsolin,51,Ser,o-linked|o-glcnacylation,EARPN,MVVEH,QGRVPEARPN,MVVEHPEFLK,9606
+Q8WXI7-1,Mucin-16,1867,Thr,o-linked|other,DRSLN,GVTRA,GTLATDRSLN,GVTRASRLEN,9606
+O43432-1,Eukaryotic translation initiation factor 4 gamma 3,168,Thr,o-linked|o-glcnacylation,GSRNP,PPIGR,IMSGGGSRNP,PPIGRPTSTP,9606
+O00592-1,Podocalyxin,195,Thr,o-linked|other,RQPTS,HPVAT,SPLSPRQPTS,HPVATPTSSG,9606
+Q99439-1,Calponin-2,217,Ser,o-linked|o-glcnacylation,TNKCA,QVGMT,SLQMGTNKCA,QVGMTAPGTR,9606
+Q8WVJ2-1,NudC domain-containing protein 2,146,Thr,o-linked|o-glcnacylation,ISGNY,KGGPD,FSGAEISGNY,KGGPDFSNLE,9606
+Q8TCU4-1,Centrosome-associated protein ALMS1,1300,Ser,o-linked|o-glcnacylation,IFYQQ,LPSSH,REKPSIFYQQ,LPSSHLTEEA,9606
+Q8NBR0-1,Tumor protein p53-inducible protein 13,190,Thr,o-linked|other,PGTEV,SQGPR,RSWRPPGTEV,SQGPRQPSSS,9606
+Q93052-1,Lipoma-preferred partner,11,Ser,o-linked|o-glcnacylation;o-linked|other,WLPPK,TGEPL,MSHPSWLPPK,TGEPLGHVPA,9606
+Q8N3D4-1,EH domain-binding protein 1-like protein 1,884,Ser,o-linked|o-glcnacylation,EEAQT,GVQEA,PEAEKEEAQT,GVQEAETRVG,9606
+O75381-1,Peroxisomal membrane protein PEX14,286,Ser,o-linked|other,HSPEG,TVTYH,PGKEGHSPEG,TVTYHLLGPQ,9606
+Q9UPT8-1,Zinc finger CCCH domain-containing protein 4,898,Thr,o-linked|o-glcnacylation,ARALP,SKPEG,SDPRLARALP,SKPEGSLHSS,9606
+P07814-1,Bifunctional glutamate/proline--tRNA ligase,898,Thr,o-linked|o-glcnacylation,PAGLE,PEAKV,TRNSEPAGLE,PEAKVLFDKV,9606
+P35658-1,Nuclear pore complex protein Nup214,1963,Ser,o-linked|o-glcnacylation,GFGFS,PNKTG,SVASQGFGFS,PNKTGGFGAA,9606
+P54725-1,UV excision repair protein RAD23 homolog A,132,Thr,o-linked|o-glcnacylation,ESAPT,SPESV,KSPSEESAPT,SPESVSGSVP,9606
+P04844-1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2,521,Thr,o-linked|other,SQNLF,PKQEI,PSTVLSQNLF,PKQEIQHLFR,9606
+Q04941-1,Proteolipid protein 2,145,Thr,o-linked|other,HTAAP,DPADG,VRQPRHTAAP,DPADGPV,9606
+Q15436-1,Protein transport protein Sec23A,738,Ser,o-linked|o-glcnacylation,AWGQE,GAPIL,HNNMYAWGQE,GAPILTDDVS,9606
+Q9ULK2-1,Ataxin-7-like protein 1,649,Ser,o-linked|o-glcnacylation;o-linked|other,KRKPQ,STSSS,SPSNKKRKPQ,STSSSSSSSS,9606
+Q9P1Y5-1,Calmodulin-regulated spectrin-associated protein 3,712,Ser,o-linked|o-glcnacylation,SAALS,LQRDM,AVSKLSAALS,LQRDMQRLTD,9606
+Q9Y618-1,Nuclear receptor corepressor 2,1518,Ser,o-linked|o-glcnacylation,GTASS,GGSIA,LKSRPGTASS,GGSIARGAPV,9606
+Q12962-1,Transcription initiation factor TFIID subunit 10,44,Ser,o-linked|o-glcnacylation,AENKA,PAGTA,PSSTAAENKA,PAGTAGGPGA,9606
+Q9UPT8-1,Zinc finger CCCH domain-containing protein 4,1265,Thr,o-linked|o-glcnacylation,KQTPK,GSGSP,LFGTVKQTPK,GSGSPFAGNS,9606
+Q6PJT7-1,Zinc finger CCCH domain-containing protein 14,133,Thr,o-linked|o-glcnacylation,DSRVS,SSQES,RPEKRDSRVS,SSQESKTTNV,9606
+Q12830-1,Nucleosome-remodeling factor subunit BPTF,2056,Thr,o-linked|o-glcnacylation,PTVIA,STTSP,LEQQKPTVIA,STTSPTSSTT,9606
+Q01860-1,"POU domain, class 5, transcription factor 1",355,Ser,o-linked|o-glcnacylation,VTTLG,PMHSN,FPPVSVTTLG,PMHSN,9606
+P53814-1,Smoothelin,579,Ser,o-linked|o-glcnacylation,GRSPL,AEELM,NKAPEGRSPL,AEELMTIEDE,9606
+P61978-1,Heterogeneous nuclear ribonucleoprotein K,379,Ser,o-linked|o-glcnacylation,AGGRG,YGDLG,YDYSYAGGRG,YGDLGGPIIT,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,5310,Ser,o-linked|o-glcnacylation,NLKGP,LKGDL,PDLDLNLKGP,LKGDLDASVP,9606
+Q14247-1,Src substrate cortactin,401,Thr,o-linked|o-glcnacylation,RAKTQ,PPVSP,LEEQARAKTQ,PPVSPAPQPT,9606
+P53814-1,Smoothelin,267,Ser,o-linked|o-glcnacylation,VNKLL,GPKET,TEGQVVNKLL,GPKETPAAQS,9606
+Q13428-1,Treacle protein,533,Thr,o-linked|o-glcnacylation,KVGPA,PSAQV,PVPPGKVGPA,PSAQVGKWEE,9606
+P49790-1,Nuclear pore complex protein Nup153,498,Ser,o-linked|o-glcnacylation;o-linked|other,EITTS,PSPIN,NFSSPEITTS,PSPINSSQAL,9606
+P28033-1,CCAAT/enhancer-binding protein beta,181,Ser,o-linked|o-glcnacylation,SLSTS,SSSPP,SGSSGSLSTS,SSSPPGTPSP,10090
+Q4G0J3-1,La-related protein 7,84,Thr,o-linked|o-glcnacylation,KMKKL,TDGKL,LVSFNKMKKL,TDGKLIARAL,9606
+P05387-1,Large ribosomal subunit protein P2,64,Ser,o-linked|o-glcnacylation,IGKLA,VPAGG,VIAQGIGKLA,VPAGGAVAVS,9606
+Q08211-1,ATP-dependent RNA helicase A,1142,Ser,o-linked|o-glcnacylation,QISRP,AAGIN,LNMIRQISRP,AAGINLMIGS,9606
+Q8TC07-1,TBC1 domain family member 15,682,Ser,o-linked|o-glcnacylation,TQIPV,SDVCR,RNDSPTQIPV,SDVCRLTPA,9606
+O60381-1,HMG box-containing protein 1,156,Ser,o-linked|o-glcnacylation,RPPPV,SSSKS,LHSYARPPPV,SSSKSEPAFP,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,1794,Ser,o-linked|o-glcnacylation,DRSGS,QSTSR,TTRRRDRSGS,QSTSRRRQRS,9606
+Q5VT52-1,Regulation of nuclear pre-mRNA domain-containing protein 2,598,Thr,o-linked|o-glcnacylation,SPNSS,SEVSS,KSFNYSPNSS,SEVSSTSASK,9606
+P49792-1,E3 SUMO-protein ligase RanBP2,2263,Ser,o-linked|o-glcnacylation,FRFGE,TTGFN,VRKNLFRFGE,TTGFNFSFKS,9606
+P13611-1,Versican core protein,716,Thr,o-linked|other,PFMGK,EEEVF,EITKSPFMGK,EEEVFSGMKL,9606
+Q6PJT7-1,Zinc finger CCCH domain-containing protein 14,735,Ser,o-linked|o-glcnacylation,IRPQT,E,HALKWIRPQT,E,9606
+Q6UUV7-1,CREB-regulated transcription coactivator 3,352,Thr,o-linked|o-glcnacylation;o-linked|other,NNHPQ,SVPNA,LSSSLNNHPQ,SVPNASALHP,9606
+Q8WWI1-1,LIM domain only protein 7,1601,Ser,o-linked|o-glcnacylation,ASQSG,QLRNR,SHSPSASQSG,QLRNRSVSGK,9606
+Q14676-1,Mediator of DNA damage checkpoint protein 1,108,Ser,o-linked|o-glcnacylation,PPKVL,PGVSH,TQILRPPKVL,PGVSHRLRDQ,9606
+Q13523-1,Serine/threonine-protein kinase PRP4 homolog,20,Ser,o-linked|o-glcnacylation;o-linked|other,,EKSIN,,EKSINEENGE,9606
+Q9UK76-1,Jupiter microtubule associated homolog 1,61,Ser,o-linked|o-glcnacylation,EENQA,WAKSA,IFGTPEENQA,WAKSAGAKSS,9606
+P14618-1,Pyruvate kinase PKM,50,Thr,o-linked|o-glcnacylation,TGIIC,IGPAS,ITARNTGIIC,IGPASRSVET,9606
+Q8IYB3-1,Serine/arginine repetitive matrix protein 1,658,Ser,o-linked|o-glcnacylation,SPSLS,KHRKG,VTKRRSPSLS,KHRKGSSPSR,9606
+P18850-1,Cyclic AMP-dependent transcription factor ATF-6 alpha,94,Ser,o-linked|o-glcnacylation,EPQPL,PASSS,KDIKAEPQPL,PASSSYSVSS,9606
+Q9BTA9-1,WW domain-containing adapter protein with coiled-coil,457,Thr,o-linked|o-glcnacylation,SPRIS,PQTNT,PRSYVSPRIS,PQTNTVPIKP,9606
+Q9HB71-1,Calcyclin-binding protein,3,Ser,o-linked|o-glcnacylation,MA,EELQK,MA,EELQKDLEEV,9606
+Q9P2E9-1,Ribosome-binding protein 1,135,Ser,o-linked|o-glcnacylation,EKLAS,PKDKK,PAMPQEKLAS,PKDKKKKEKK,9606
+Q8N135-1,Leucine-rich repeat LGI family member 4,337,Ser,o-linked|o-glcnacylation;o-linked|other,VVADA,KAGST,GQPCFVVADA,KAGSTTLLCR,9606
+P49790-1,Nuclear pore complex protein Nup153,901,Ser,o-linked|o-glcnacylation,NSAAS,SFKFG,SSSSSNSAAS,SFKFGVSSSS,9606
+Q13428-1,Treacle protein,805,Thr,o-linked|o-glcnacylation,PSAKG,ISAPG,AAARAPSAKG,ISAPGKVVTA,9606
+O75376-1,Nuclear receptor corepressor 1,2219,Ser,o-linked|o-glcnacylation,RKLNS,GGGDS,KQEIFRKLNS,GGGDSDMAAA,9606
+Q14671-1,Pumilio homolog 1,808,Ser,o-linked|o-glcnacylation,SLFSP,STLFS,ASSASSLFSP,STLFSSSRLR,9606
+Q9H0E9-1,Bromodomain-containing protein 8,284,Ser,o-linked|o-glcnacylation;o-linked|other,TTPLA,FTTVA,GPTQFTTPLA,FTTVASEPPV,9606
+P49792-1,E3 SUMO-protein ligase RanBP2,1396,Thr,o-linked|o-glcnacylation,AETVF,PKTSP,VGPPLAETVF,PKTSPENVQD,9606
+P35658-1,Nuclear pore complex protein Nup214,433,Ser,o-linked|o-glcnacylation,PKSPG,TPTTP,EGERQPKSPG,TPTTPTSSQA,9606
+P51610-1,Host cell factor 1,738,Thr,o-linked|o-glcnacylation;o-linked|other,TTIIT,TQASG,ADGKPTTIIT,TQASGAGTKP,9606
+P78527-1,DNA-dependent protein kinase catalytic subunit,318,Ser,o-linked|o-glcnacylation,LSALE,FLKQV,LKKAALSALE,FLKQVSNMVA,9606
+Q5T5P2-1,Sickle tail protein homolog,169,Ser,o-linked|o-glcnacylation,SRTRA,LPVVR,PFSRGSRTRA,LPVVRSTNQT,9606
+Q86YZ3-1,Hornerin,293,Ser,o-linked|o-glcnacylation,SGSRQ,LGHGR,YGQHGSGSRQ,LGHGRQGSGS,9606
+P08572-1,Collagen alpha-2(IV) chain,1403,Thr,o-linked|other,AVQPG,VGPQG,IPQKIAVQPG,VGPQGRRGPP,9606
+Q99700-1,Ataxin-2,528,Ser,o-linked|o-glcnacylation,SMPSR,TSHTS,QPGSGSMPSR,TSHTSDFNPN,9606
+Q96HC4-1,PDZ and LIM domain protein 5,319,Ser,o-linked|o-glcnacylation;o-linked|other,PQLAS,VASTR,SQEPSPQLAS,VASTRSMPES,9606
+Q15691-1,Microtubule-associated protein RP/EB family member 1,154,Thr,o-linked|o-glcnacylation,PKKPL,SSSAA,PALNKPKKPL,SSSAAPQRPI,9606
+Q13474-1,Dystrophin-related protein 2,910,Thr,o-linked|o-glcnacylation,EKGQT,PDTEA,GSHPREKGQT,PDTEAADDVG,9606
+Q8NFH5-1,Nucleoporin NUP35,93,Ser,o-linked|o-glcnacylation,APPVR,IYDDI,KDKSGAPPVR,IYDDISSPGL,9606
+P78524-1,DENN domain-containing protein 2B,105,Ser,o-linked|o-glcnacylation,GYLDR,PSACK,KTASFGYLDR,PSACKRDAQK,9606
+P54578-1,Ubiquitin carboxyl-terminal hydrolase 14,230,Ser,o-linked|o-glcnacylation,ETDSS,ASAAT,DDSVKETDSS,ASAATPSKKK,9606
+Q9NP71-1,Carbohydrate-responsive element-binding protein,614,Ser,o-linked|o-glcnacylation,SERRL,GDLSS,PAPSGSERRL,GDLSSMPGPG,9606
+Q04695-1,"Keratin, type I cytoskeletal 17",12,Ser,o-linked|o-glcnacylation,QFTSS,SIKGS,TTSIRQFTSS,SIKGSSGLGG,9606
+Q5TB30-5,DEP domain-containing protein 1A,512,Ser,o-linked|o-glcnacylation,LCRSQ,LLLRS,CKSKQLCRSQ,LLLRSSTRRN,9606
+O75339-1,Cartilage intermediate layer protein 1,1140,Ser,o-linked|other,STPAQ,PAAGT,FQYLQSTPAQ,PAAGTVQGRV,9606
+O75367-2,Core histone macro-H2A.1,170,Ser,o-linked|o-glcnacylation;o-linked|other,VSKAA,ADSTT,KKQGEVSKAA,ADSTTEGTPA,9606
+P25705-1,"ATP synthase subunit alpha, mitochondrial",48,Thr,o-linked|o-glcnacylation,LQKTG,AEMSS,ASNTHLQKTG,AEMSSILEER,9606
+Q9Y2I7-1,1-phosphatidylinositol 3-phosphate 5-kinase,90,Thr,o-linked|o-glcnacylation,SVRSP,PYKKQ,PSRTQSVRSP,PYKKQLNEEL,9606
+Q6Q0C0-1,E3 ubiquitin-protein ligase TRAF7,62,Ser,o-linked|o-glcnacylation,CRTPS,SSTLA,TYKQHCRTPS,SSTLAYSPRD,9606
+P35658-1,Nuclear pore complex protein Nup214,1083,Ser,o-linked|o-glcnacylation,GAPSP,HPISA,KTVKHGAPSP,HPISAPQAAA,9606
+Q7Z309-1,PABIR family member 2,141,Ser,o-linked|o-glcnacylation,PSPVP,PRRFS,SSGLPPSPVP,PRRFSRRSQS,9606
+P49848-1,Transcription initiation factor TFIID subunit 6,614,Thr,o-linked|o-glcnacylation,VSLPP,GEGKG,QKYIVVSLPP,GEGKGGPTSH,9606
+Q92619-1,Rho GTPase-activating protein 45,444,Thr,o-linked|o-glcnacylation,STATK,LDKRR,APGAGSTATK,LDKRRRLEEE,9606
+P07814-1,Bifunctional glutamate/proline--tRNA ligase,745,Thr,o-linked|o-glcnacylation,LNNNC,TSEDS,RPTPSLNNNC,TSEDSLVLYN,9606
+Q15149-1,Plectin,305,Ser,o-linked|o-glcnacylation;o-linked|other,KLLLW,QRMVE,MTAKEKLLLW,QRMVEGYQGL,9606
+Q9UPV9-1,Trafficking kinesin-binding protein 1,938,Ser,o-linked|o-glcnacylation,PVTLT,GILMG,MQMKAPVTLT,GILMGAKLSK,9606
+O15085-1,Rho guanine nucleotide exchange factor 11,668,Thr,o-linked|o-glcnacylation,SLENP,PPFTP,SLSTRSLENP,PPFTPKMGRR,9606
+Q14157-2,Ubiquitin-associated protein 2-like,713,Thr,o-linked|o-glcnacylation,TSSGR,STSTL,TLSSSTSSGR,STSTLLHTSV,9606
+Q8TCU4-1,Centrosome-associated protein ALMS1,1269,Ser,o-linked|o-glcnacylation,KISVA,EPVDQ,TEEALKISVA,EPVDQTTGTP,9606
+Q3KQU3-1,MAP7 domain-containing protein 1,454,Ser,o-linked|o-glcnacylation,ARLSA,TASEL,PASPRARLSA,TASELSPKSK,9606
+Q15149-1,Plectin,4673,Ser,o-linked|o-glcnacylation,YASGS,ASLGG,GYGRRYASGS,ASLGGPESAV,9606
+Q8IX12-1,Cell division cycle and apoptosis regulator protein 1,287,Ser,o-linked|o-glcnacylation,PVRIV,QPQPA,GLLQPPVRIV,QPQPARRLDP,9606
+P02545-1,Prelamin-A/C,632,Ser,o-linked|o-glcnacylation,RSVGG,GGGSF,VTRSYRSVGG,GGGSFGDNLV,9606
+Q8WXH0-1,Nesprin-2,6484,Ser,o-linked|o-glcnacylation,VPPAS,TPYKP,RNVPPVPPAS,TPYKPPYGKL,9606
+A5YKK6-1,CCR4-NOT transcription complex subunit 1,1051,Thr,o-linked|o-glcnacylation;o-linked|other,TTVAK,VTVTR,TTSTTTTVAK,VTVTRPTGVS,9606
+Q8NBQ5-1,Estradiol 17-beta-dehydrogenase 11,188,Ser,o-linked|o-glcnacylation,LAYCS,KFAAV,SVPFLLAYCS,KFAAVGFHKT,9606
+O15027-1,Protein transport protein Sec16A,587,Ser,o-linked|o-glcnacylation,QNYRG,VSQPS,ETTVSQNYRG,VSQPSTPSPP,9606
+P27816-1,Microtubule-associated protein 4,797,Ser,o-linked|o-glcnacylation;o-linked|other,ASAPA,RSGSK,SPSKPASAPA,RSGSKSTQTV,9606
+Q5UIP0-1,Telomere-associated protein RIF1,409,Thr,o-linked|o-glcnacylation,YGAPG,PRMNL,GASSPYGAPG,PRMNLSSNLG,9606
+Q01995-1,Transgelin,166,Ser,o-linked|o-glcnacylation,REFTE,QLQEG,AQEHKREFTE,QLQEGKHVIG,9606
+P07711-1,Procathepsin L,223,Thr,o-linked|o-glcnacylation,SVAND,GFVDI,YNPKYSVAND,GFVDIPKQEK,9606
+Q9NRM7-1,Serine/threonine-protein kinase LATS2,342,Ser,o-linked|o-glcnacylation,VFASD,PPQSL,GSRSQVFASD,PPQSLLTPSR,9606
+Q8IWZ8-1,SURP and G-patch domain-containing protein 1,111,Ser,o-linked|o-glcnacylation;o-linked|other,PTSAP,APPST,TSTDAPTSAP,APPSTPTPSA,9606
+Q7Z434-1,Mitochondrial antiviral-signaling protein,255,Ser,o-linked|o-glcnacylation,TGTSF,SSSPG,GSVVSTGTSF,SSSPGLASAG,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,2381,Thr,o-linked|o-glcnacylation,SGANL,SPRVP,MAPALSGANL,SPRVPLSAYE,9606
+P63261-1,"Actin, cytoplasmic 2",271,Ser,o-linked|o-glcnacylation,FLGME,CGIHE,LFQPSFLGME,CGIHETTFNS,9606
+Q7Z6B7-1,SLIT-ROBO Rho GTPase-activating protein 1,1006,Thr,o-linked|o-glcnacylation,TPATS,ESLSP,VKNSPTPATS,ESLSPLHNVA,9606
+Q08495-1,Dematin,110,Ser,o-linked|o-glcnacylation,SPGII,QASAP,WADSRSPGII,QASAPRTTGT,9606
+Q92903-1,Phosphatidate cytidylyltransferase 1,18,Ser,o-linked|o-glcnacylation,PREAV,PPHRE,GSCPGPREAV,PPHREGEAAG,9606
+Q86U90-1,Threonylcarbamoyl-AMP synthase,21,Ser,o-linked|o-glcnacylation,ASVGL,EGPAG,RAAVAASVGL,EGPAGSRSGR,9606
+Q7Z589-1,BRCA2-interacting transcriptional repressor EMSY,238,Ser,o-linked|o-glcnacylation,VPVSG,PKMSN,SKTITVPVSG,PKMSNIMQSI,9606
+P05412-1,Transcription factor Jun,131,Thr,o-linked|o-glcnacylation,TLPSV,SAAQP,LHSQNTLPSV,SAAQPVNGAG,9606
+P25054-1,Adenomatous polyposis coli protein,2621,Ser,o-linked|o-glcnacylation,KENEF,PTNST,TWRKIKENEF,PTNSTSQTVS,9606
+Q9ULM3-1,YEATS domain-containing protein 2,478,Thr,o-linked|o-glcnacylation,SPLPR,PTSTP,STPSPSPLPR,PTSTPVHVKQ,9606
+Q9H3U1-1,Protein unc-45 homolog A,15,Thr,o-linked|o-glcnacylation,EPRPA,PGASS,GPGTPEPRPA,PGASSVEQLR,9606
+O15027-1,Protein transport protein Sec16A,1016,Ser,o-linked|o-glcnacylation,PSHSD,LASQQ,VNVYNPSHSD,LASQQSVASH,9606
+P55327-1,Tumor protein D52,176,Ser,o-linked|o-glcnacylation,SPTFK,FEEKV,EDVKNSPTFK,FEEKVENLKS,9606
+P49792-1,E3 SUMO-protein ligase RanBP2,2831,Ser,o-linked|o-glcnacylation,DTDST,QGESK,TRKEIDTDST,QGESKIVSFG,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,1519,Ser,o-linked|o-glcnacylation,KMPKF,MPGFK,KMPKVKMPKF,MPGFKGEGPE,9606
+Q8IV63-1,Serine/threonine-protein kinase VRK3,71,Ser,o-linked|o-glcnacylation,SSTVT,PRLSL,KKVKWSSTVT,PRLSLFSDGD,9606
+Q96ST3-1,Paired amphipathic helix protein Sin3a,289,Ser,o-linked|o-glcnacylation,TPVTI,LGTAP,PVQPHTPVTI,LGTAPSLQNN,9606
+Q14671-1,Pumilio homolog 1,809,Ser,o-linked|o-glcnacylation,LFSPS,TLFSS,SSASSLFSPS,TLFSSSRLRY,9606
+Q68DK7-1,Male-specific lethal 1 homolog,205,Ser,o-linked|o-glcnacylation,KSMRK,PLGGG,SEGRWKSMRK,PLGGGGGSGA,9606
+Q00839-1,Heterogeneous nuclear ribonucleoprotein U,191,Thr,o-linked|o-glcnacylation,KSSGP,SLFAV,KEAAGKSSGP,SLFAVTVAPP,9606
+Q15652-1,Probable JmjC domain-containing histone demethylation protein 2C,2057,Ser,o-linked|o-glcnacylation,TSPLV,QNNEQ,SPNGRTSPLV,QNNEQGSTLR,9606
+O75362-1,Zinc finger protein 217,848,Ser,o-linked|o-glcnacylation,PKTSV,PAPDK,QSEMFPKTSV,PAPDKTKRPE,9606
+Q13247-1,Serine/arginine-rich splicing factor 6,253,Ser,o-linked|o-glcnacylation,KSKPK,DRGSH,SRSKSKSKPK,DRGSHSHSRS,9606
+P23769-1,Endothelial transcription factor GATA-2,182,Ser,o-linked|o-glcnacylation,PPKEV,PDPST,GFPPTPPKEV,PDPSTTGAAS,9606
+O75369-1,Filamin-B,1602,Ser,o-linked|o-glcnacylation,DDIPL,PYRIR,VTYGGDDIPL,PYRIRATQTG,9606
+Q7Z3K3-1,Pogo transposable element with ZNF domain,707,Thr,o-linked|o-glcnacylation,VSSND,PPSAL,PRTVPVSSND,PPSALQEAAP,9606
+O75506-1,Heat shock factor-binding protein 1,73,Thr,o-linked|o-glcnacylation,NKIPA,QKS,ELESENKIPA,QKS,9606
+P09651-1,Heterogeneous nuclear ribonucleoprotein A1,22,Ser,o-linked|o-glcnacylation,FIGGL,FETTD,QLRKLFIGGL,FETTDESLRS,9606
+P28066-1,Proteasome subunit alpha type-5,63,Ser,o-linked|o-glcnacylation,LMEPS,IEKIV,RITSPLMEPS,IEKIVEIDAH,9606
+Q7Z5K2-1,Wings apart-like protein homolog,159,Ser,o-linked|o-glcnacylation,DASIS,CNKLI,RIVEDDASIS,CNKLITSDKV,9606
+Q99590-1,Protein SCAF11,680,Ser,o-linked|o-glcnacylation;o-linked|other,TKLEK,LEEKN,NNLLNTKLEK,LEEKNESLTE,9606
+P27816-1,Microtubule-associated protein 4,878,Thr,o-linked|o-glcnacylation,TTLSG,APAAG,SMKKTTTLSG,APAAGVVPSR,9606
+Q9H6E4-1,Coiled-coil domain-containing protein 134,192,Ser,o-linked|other,TEFIP,TDPFQ,FKIDRTEFIP,TDPFQKALRE,9606
+Q99081-1,Transcription factor 12,283,Ser,o-linked|o-glcnacylation,PPHSV,PTDIN,DRLSYPPHSV,PTDINTSLPP,9606
+P04792-1,Heat shock protein beta-1,180,Thr,o-linked|o-glcnacylation,QSNEI,IPVTF,PKLATQSNEI,IPVTFESRAQ,9606
+Q04637-1,Eukaryotic translation initiation factor 4 gamma 1,1073,Thr,o-linked|o-glcnacylation,RLTKI,KPGSI,PIDTSRLTKI,KPGSIDSNNQ,9606
+P35658-1,Nuclear pore complex protein Nup214,1058,Ser,o-linked|o-glcnacylation,VATSA,KIIPQ,VMGTSVATSA,KIIPQGADST,9606
+Q96G42-1,Kelch domain-containing protein 7B,91,Ser,o-linked|o-glcnacylation,GTREK,LDPLP,GLRGEGTREK,LDPLPQAAMP,9606
+O43615-1,Mitochondrial import inner membrane translocase subunit TIM44,159,Ser,o-linked|o-glcnacylation,KTAKQ,AESVS,VEEAAKTAKQ,AESVSKGGEK,9606
+Q5JTV8-1,Torsin-1A-interacting protein 1,318,Thr,o-linked|o-glcnacylation,NQSPS,SSRQV,KSELGNQSPS,SSRQVTGQPQ,9606
+Q9Y2X9-1,Zinc finger protein 281,864,Ser,o-linked|o-glcnacylation;o-linked|other,HRVRT,VSDFS,NGEVDHRVRT,VSDFSGYTNM,9606
+Q96M27-1,Protein PRRC1,254,Ser,o-linked|o-glcnacylation;o-linked|other,APYIK,GGELD,LDPGMAPYIK,GGELDIVVTS,9606
+P57740-1,Nuclear pore complex protein Nup107,64,Thr,o-linked|o-glcnacylation,FRQPF,PTSRS,RTPSSFRQPF,PTSRSLLRQP,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,2357,Thr,o-linked|o-glcnacylation,IAGSR,AAALA,TAPVNIAGSR,AAALAPASLT,9606
+P17535-1,Transcription factor JunD,27,Ser,o-linked|o-glcnacylation,GGSFA,PGRLF,GASGSGGSFA,PGRLFPGAPP,9606
+Q08117-1,TLE family member 5,161,Thr,o-linked|o-glcnacylation;o-linked|other,AVSAG,GLLSL,PPSLPAVSAG,GLLSLSALGS,9606
+P55735-1,Protein SEC13 homolog,309,Ser,o-linked|o-glcnacylation,NKGQG,VSASV,CISDVNKGQG,VSASVTEGQQ,9606
+Q5T1R4-1,Transcription factor HIVEP3,2006,Ser,o-linked|o-glcnacylation,REPQA,APSPP,RCSPAREPQA,APSPPGLHVD,9606
+P35658-1,Nuclear pore complex protein Nup214,613,Ser,o-linked|o-glcnacylation,PMSPF,SASKP,SQSAPPMSPF,SASKPAASGP,9606
+P11279-1,Lysosome-associated membrane glycoprotein 1,85,Thr,o-linked|o-glcnacylation,CGKEN,SDPSL,LNRSSCGKEN,SDPSLVIAFG,9606
+Q6UXY1-1,Brain-specific angiogenesis inhibitor 1-associated protein 2-like protein 2,512,Thr,o-linked|o-glcnacylation,TNPFA,VKLRP,LFPRGTNPFA,VKLRPTITND,9606
+P07237-1,Protein disulfide-isomerase,428,Thr,o-linked|other,AKMDS,ANEVE,ENIVIAKMDS,ANEVEAVKVH,9606
+Q13443-1,Disintegrin and metalloproteinase domain-containing protein 9,798,Ser,o-linked|o-glcnacylation,PQPKV,SQGNL,SRPPPPQPKV,SQGNLIPARP,9606
+Q76NI1-1,Kinase non-catalytic C-lobe domain-containing protein 1,982,Ser,o-linked|o-glcnacylation,LEGSQ,PRSPS,EAGSQLEGSQ,PRSPSSKRPS,9606
+Q9UPN6-1,SR-related and CTD-associated factor 8,617,Ser,o-linked|o-glcnacylation,VQTTQ,PTPVE,PVKETVQTTQ,PTPVEKETVV,9606
+P12270-1,Nucleoprotein TPR,650,Thr,o-linked|o-glcnacylation,PSTSQ,VSTPA,STPKRPSTSQ,VSTPAPVPVI,9606
+Q9H910-1,Jupiter microtubule associated homolog 2,37,Ser,o-linked|o-glcnacylation,EEATP,SRPNR,LFGSPEEATP,SRPNRMASNI,9606
+Q9H4I2-1,Zinc fingers and homeoboxes protein 3,591,Thr,o-linked|o-glcnacylation,TCIPT,ATLAT,KVPEVTCIPT,ATLATHPSAK,9606
+O75179-1,Ankyrin repeat domain-containing protein 17,2373,Ser,o-linked|o-glcnacylation,NRQHF,PLSLL,AAANFNRQHF,PLSLLTPCSS,9606
+P35611-1,Alpha-adducin,559,Thr,o-linked|o-glcnacylation,VIVST,GPNPF,EYQPHVIVST,GPNPFTTLTD,9606
+P32119-1,Peroxiredoxin-2,76,Ser,o-linked|o-glcnacylation,EVLGV,VDSQF,RKLGCEVLGV,VDSQFTHLAW,9606
+Q96RK0-1,Protein capicua homolog,583,Thr,o-linked|o-glcnacylation,AGGPA,PSKAT,PPPPGAGGPA,PSKATRFLPM,9606
+Q86Z02-1,Homeodomain-interacting protein kinase 1,854,Ser,o-linked|o-glcnacylation,SAPVS,KSSLD,KKNKQSAPVS,KSSLDVLPSQ,9606
+Q8IZD2-1,Inactive histone-lysine N-methyltransferase 2E,1001,Thr,o-linked|o-glcnacylation,KTIGY,SPRSR,GLQEIKTIGY,SPRSRTEVNR,9606
+Q12774-1,Rho guanine nucleotide exchange factor 5,913,Ser,o-linked|o-glcnacylation,SFTST,RSKSE,ARSTESFTST,RSKSEVSPGM,9606
+Q9NR12-1,PDZ and LIM domain protein 7,95,Ser,o-linked|o-glcnacylation,KPQKA,APAAD,QPVQSKPQKA,APAADPPRYT,9606
+Q9UKE5-1,TRAF2 and NCK-interacting protein kinase,688,Ser,o-linked|o-glcnacylation,LARKN,PGNGS,SISPALARKN,PGNGSALGPR,9606
+P40939-1,"Trifunctional enzyme subunit alpha, mitochondrial",501,Ser,o-linked|o-glcnacylation;o-linked|other,GMHYF,PVDKM,PEKVIGMHYF,PVDKMQLLEI,9606
+Q96JY6-1,PDZ and LIM domain protein 2,171,Ser,o-linked|o-glcnacylation,AADRL,YSGRP,SPGLPAADRL,YSGRPGSRQA,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,2708,Ser,o-linked|o-glcnacylation,KAPKI,MPDID,PEMNIKAPKI,MPDIDLNLKG,9606
+O75376-1,Nuclear receptor corepressor 1,1493,Ser,o-linked|o-glcnacylation,YQNTM,RGSPM,RTPVSYQNTM,RGSPMMNRTS,9606
+O75381-1,Peroxisomal membrane protein PEX14,287,Thr,o-linked|other,SPEGS,VTYHL,GKEGHSPEGS,VTYHLLGPQE,9606
+Q92769-1,Histone deacetylase 2,407,Ser,o-linked|o-glcnacylation,PDKRI,IRASD,EDGEDPDKRI,IRASDKRIAC,9606
+O95817-1,BAG family molecular chaperone regulator 3,190,Ser,o-linked|o-glcnacylation,SASLP,SGRSS,SSSSSSASLP,SGRSSLGSHQ,9606
+P21917-1,D(4) dopamine receptor,239,Ser,o-linked|o-glcnacylation,APRRP,GPGPP,KLHGRAPRRP,GPGPPSPTPP,9606
+P48444-1,Coatomer subunit delta,192,Ser,o-linked|o-glcnacylation,GSSAV,GGSTA,GFGGFGSSAV,GGSTAAMITE,9606
+Q99614-1,Tetratricopeptide repeat protein 1,90,Ser,o-linked|o-glcnacylation,EDVNS,ELDEE,ENKSNEDVNS,ELDEEYLIEL,9606
+P12270-1,Nucleoprotein TPR,1691,Ser,o-linked|o-glcnacylation,MAGNK,TPRAS,VTAAAMAGNK,TPRASIRPMV,9606
+P35658-1,Nuclear pore complex protein Nup214,621,Ser,o-linked|o-glcnacylation,SKPAA,GPLSH,PFSSASKPAA,GPLSHPTPLS,9606
+O95817-1,BAG family molecular chaperone regulator 3,171,Ser,o-linked|o-glcnacylation,HGPER,QSPAA,QPPASHGPER,QSPAASDCSS,9606
+Q8N5C8-1,TGF-beta-activated kinase 1 and MAP3K7-binding protein 3,408,Ser,o-linked|o-glcnacylation,TTPPS,SPSRG,SLYTATTPPS,SPSRGISSQP,9606
+Q13243-1,Serine/arginine-rich splicing factor 5,229,Ser,o-linked|o-glcnacylation,RSKSR,VSRSP,SRSRSRSKSR,VSRSPVPEKS,9606
+Q5JR59-2,Microtubule-associated tumor suppressor candidate 2,902,Thr,o-linked|o-glcnacylation,LPSKD,PKGAG,VLKASLPSKD,PKGAGRVAPP,9606
+Q8IX01-1,SURP and G-patch domain-containing protein 2,49,Ser,o-linked|o-glcnacylation,RAVPR,RAEMY,AQDLLRAVPR,RAEMYDDVHS,9606
+Q14157-2,Ubiquitin-associated protein 2-like,446,Thr,o-linked|o-glcnacylation,AVATS,AAPPP,QEKSPAVATS,AAPPPPSSPL,9606
+O75628-1,GTP-binding protein REM 1,19,Thr,o-linked|o-glcnacylation,HRRAS,PLPLS,AKTPLHRRAS,PLPLSPRGHQ,9606
+Q13546-1,Receptor-interacting serine/threonine-protein kinase 1,330,Ser,o-linked|o-glcnacylation,CVAVP,SRSNS,SLQLDCVAVP,SRSNSATEQP,9606
+Q9Y6I3-2,Epsin-1,420,Ser,o-linked|o-glcnacylation,PTSGS,AGELE,LRTALPTSGS,AGELELLAGE,9606
+P46013-1,Proliferation marker protein Ki-67,2750,Thr,o-linked|o-glcnacylation,TSGET,DADKE,VKFTQTSGET,DADKEPAGED,9606
+P06748-1,Nucleophosmin,106,Ser,o-linked|o-glcnacylation,RLKCG,GPVHI,PPVVLRLKCG,GPVHISGQHL,9606
+Q96HC4-1,PDZ and LIM domain protein 5,309,Ser,o-linked|o-glcnacylation,KKANN,QEPSP,EADNTKKANN,QEPSPQLASS,9606
+P0C881-1,Radial spoke head 10 homolog B,864,Thr,o-linked|o-glcnacylation,SSKTI,SKKKK,VTVSPSSKTI,SKKKKK,9606
+P21291-1,Cysteine and glycine-rich protein 1,192,Ser,o-linked|o-glcnacylation,GALVH,E,FGQGAGALVH,E,9606
+Q9BXS5-1,AP-1 complex subunit mu-1,28,Ser,o-linked|o-glcnacylation;o-linked|other,GDVDM,EVEHF,CRNYRGDVDM,EVEHFMPILM,9606
+Q8WXI9-1,Transcriptional repressor p66-beta,495,Ser,o-linked|o-glcnacylation,APAVS,VSKQE,LSPTTAPAVS,VSKQETIMRH,9606
+Q6ZU65-1,Ubinuclein-2,1115,Ser,o-linked|o-glcnacylation,VHKQP,GMNIS,STNSPVHKQP,GMNISRQSPT,9606
+Q7Z6Z7-1,E3 ubiquitin-protein ligase HUWE1,3122,Ser,o-linked|o-glcnacylation,STSAL,AILRS,LFGHSSTSAL,AILRSPAFTS,9606
+P35232-1,Prohibitin 1,258,Thr,o-linked|o-glcnacylation,RSRNI,YLPAG,AYQLSRSRNI,YLPAGQSVLL,9606
+O75475-1,PC4 and SFRS1-interacting protein,206,Ser,o-linked|o-glcnacylation,KQPCP,ESDII,RPKMVKQPCP,ESDIITEEDK,9606
+Q00839-1,Heterogeneous nuclear ribonucleoprotein U,188,Ser,o-linked|o-glcnacylation,AAGKS,GPTSL,GAAKEAAGKS,GPTSLFAVTV,9606
+Q9UHD8-1,Septin-9,142,Thr,o-linked|o-glcnacylation,VLGHK,PEPAP,LKRAEVLGHK,PEPAPRRTEI,9606
+O00592-1,Podocalyxin,339,Ser,o-linked|other,TVAHE,NWAKC,KTPSPTVAHE,NWAKCEDLET,9606
+O75628-1,GTP-binding protein REM 1,18,Ser,o-linked|o-glcnacylation,LHRRA,TPLPL,EAKTPLHRRA,TPLPLSPRGH,9606
+Q14119-1,Vascular endothelial zinc finger 1,144,Ser,o-linked|o-glcnacylation,VTTSS,GTNPS,GILSTVTTSS,GTNPSSSAST,9606
+P51991-1,Heterogeneous nuclear ribonucleoprotein A3,366,Ser,o-linked|o-glcnacylation,GGGYG,GGGSG,SGSPYGGGYG,GGGSGGYGSR,9606
+Q08378-1,Golgin subfamily A member 3,115,Ser,o-linked|o-glcnacylation,TSAEG,VRKEA,RKSQGTSAEG,VRKEALQSLR,9606
+Q7Z434-1,Mitochondrial antiviral-signaling protein,366,Ser,o-linked|o-glcnacylation;o-linked|other,SKVPT,MVLTK,AGMVPSKVPT,MVLTKVSAST,9606
+O43493-2,Trans-Golgi network integral membrane protein 2,76,Thr,o-linked|o-glcnacylation;o-linked|other,SAEAQ,PEDTP,SPSKSSAEAQ,PEDTPNKSGA,9606
+P12270-1,Nucleoprotein TPR,1682,Thr,o-linked|o-glcnacylation,TPSKV,AAAMA,TPVVSTPSKV,AAAMAGNKST,9606
+Q15054-1,DNA polymerase delta subunit 3,458,Ser,o-linked|o-glcnacylation,ANRQV,ITGFF,AALGKANRQV,ITGFFQRK,9606
+Q09472-1,Histone acetyltransferase p300,2325,Ser,o-linked|o-glcnacylation,SQPPH,SPSPR,SPRPQSQPPH,SPSPRMQPQP,9606
+Q03164-1,Histone-lysine N-methyltransferase 2A,926,Ser,o-linked|o-glcnacylation,VATSS,AKKAT,VVGEDVATSS,AKKATGRKKS,9606
+Q12830-1,Nucleosome-remodeling factor subunit BPTF,2241,Thr,o-linked|o-glcnacylation,NTVSS,PGQKS,AVSAPNTVSS,PGQKSLTSAT,9606
+Q7Z589-1,BRCA2-interacting transcriptional repressor EMSY,541,Thr,o-linked|o-glcnacylation,SGSII,VVPKS,YVKTTSGSII,VVPKSLATLG,9606
+O15294-1,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit,12,Thr,o-linked|o-glcnacylation,NVADS,EPTKR,ASSVGNVADS,EPTKRMLSFQ,9606
+O75385-1,Serine/threonine-protein kinase ULK1,409,Ser,o-linked|o-glcnacylation,PSPPC,SSPSP,GRTPSPSPPC,SSPSPSGRAG,9606
+Q659A1-1,Little elongation complex subunit 2,429,Thr,o-linked|o-glcnacylation,TVPNM,DAPTA,PASTSTVPNM,DAPTAPKAGT,9606
+P05783-1,"Keratin, type I cytoskeletal 18",49,Ser,o-linked|o-glcnacylation,SRISV,RSTSF,AGGSGSRISV,RSTSFRGGMG,9606
+Q92945-1,Far upstream element-binding protein 2,99,Ser,o-linked|o-glcnacylation,TTVNN,TPDFG,GGDAATTVNN,TPDFGFGGQK,9606
+O75909-3,Cyclin-K,340,Ser,o-linked|o-glcnacylation;o-linked|other,RAVVV,PKEEN,PRQVKRAVVV,PKEENKAAEP,9606
+Q8IWX8-1,Calcium homeostasis endoplasmic reticulum protein,822,Ser,o-linked|o-glcnacylation,SPTPP,SAGLG,RSRSRSPTPP,SAGLGSNSAP,9606
+P35367-1,Histamine H1 receptor,285,Ser,o-linked|o-glcnacylation,PKEMK,PVVFS,SPSQTPKEMK,PVVFSQEDDR,9606
+Q9BQE3-1,Tubulin alpha-1C chain,334,Thr,o-linked|o-glcnacylation,NAAIA,IKTKR,VPKDVNAAIA,IKTKRTIQFV,9606
+P35658-1,Nuclear pore complex protein Nup214,430,Ser,o-linked|o-glcnacylation,ERQPK,PGSTP,LSLEGERQPK,PGSTPTTPTS,9606
+P16989-1,Y-box-binding protein 3,318,Ser,o-linked|o-glcnacylation,NQQAT,GPNQP,AEDKENQQAT,GPNQPSVRRG,9606
+Q9UPT8-1,Zinc finger CCCH domain-containing protein 4,907,Ser,o-linked|o-glcnacylation,EGSLH,SPVGP,PTSKPEGSLH,SPVGPSSSKG,9606
+Q9NS91-1,E3 ubiquitin-protein ligase RAD18,468,Thr,o-linked|o-glcnacylation,NDLQD,EISPR,EASHKNDLQD,EISPRQNRRT,9606
+Q9H4A3-1,Serine/threonine-protein kinase WNK1,167,Ser,o-linked|o-glcnacylation,KDRPV,QPSLV,PSSTSKDRPV,QPSLVGSKEE,9606
+Q8N8S7-1,Protein enabled homolog,464,Thr,o-linked|o-glcnacylation,AEKGS,IETEQ,RRRRIAEKGS,IETEQKEDKG,9606
+Q13464-1,Rho-associated protein kinase 1,407,Ser,o-linked|o-glcnacylation,NRRYL,SANPN,FTYYSNRRYL,SANPNDNRTS,9606
+P48431-1,Transcription factor SOX-2,256,Thr,o-linked|o-glcnacylation,SPPVV,SSSHS,SEASSSPPVV,SSSHSRAPCQ,9606
+P49959-1,Double-strand break repair protein MRE11,667,Ser,o-linked|o-glcnacylation,TDQRW,STSSS,PTTSKTDQRW,STSSSKIMSQ,9606
+Q14676-1,Mediator of DNA damage checkpoint protein 1,1582,Thr,o-linked|o-glcnacylation,ELQPS,SRNQL,VPIAPELQPS,SRNQLVTPEP,9606
+P08174-1,Complement decay-accelerating factor,310,Ser,o-linked|o-glcnacylation,PTTEV,PTSQK,TTVNVPTTEV,PTSQKTTTKT,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,111,Thr,o-linked|o-glcnacylation,GGKEE,PGQRP,KDVNPGGKEE,PGQRPAVTET,9606
+P48723-1,Heat shock 70 kDa protein 13,185,Ser,o-linked|o-glcnacylation,LKQRN,TIEAA,PAEFDLKQRN,TIEAANLAGL,9606
+Q9BXP5-1,Serrate RNA effector molecule homolog,679,Ser,o-linked|o-glcnacylation,LSVRE,LSEEE,KLTPLLSVRE,LSEEEAQKMG,9606
+O00391-1,Sulfhydryl oxidase 1,577,Thr,o-linked|other,ESRNS,LDPGK,GALELESRNS,LDPGKPEMMK,9606
+Q14126-1,Desmoglein-2,1056,Thr,o-linked|o-glcnacylation,LAPAS,LQSSY,VTERVLAPAS,LQSSYQIPTE,9606
+Q01082-1,"Spectrin beta chain, non-erythrocytic 1",2102,Ser,o-linked|o-glcnacylation,KRRPP,PEPST,EEEERKRRPP,PEPSTKVSEE,9606
+Q86X29-1,Lipolysis-stimulated lipoprotein receptor,185,Thr,o-linked|other,QGNAV,LGDYY,VVATKQGNAV,LGDYYQGRRI,9606
+Q5VT52-1,Regulation of nuclear pre-mRNA domain-containing protein 2,593,Ser,o-linked|o-glcnacylation,KSFNY,PNSST,QPFIPKSFNY,PNSSTSEVSS,9606
+Q6KC79-1,Nipped-B-like protein,356,Thr,o-linked|o-glcnacylation,PSKDS,KLTLR,DIISSPSKDS,KLTLRLSRVR,9606
+P35658-1,Nuclear pore complex protein Nup214,1150,Thr,o-linked|o-glcnacylation,YSTAK,PHPVL,GSSVPYSTAK,PHPVLTPVAA,9606
+Q92997-1,Segment polarity protein dishevelled homolog DVL-3,639,Ser,o-linked|o-glcnacylation,HRSHH,LASSL,ASEHSHRSHH,LASSLRSHHT,9606
+Q86VI3-1,Ras GTPase-activating-like protein IQGAP3,201,Ser,o-linked|o-glcnacylation;o-linked|other,LANEL,VDEAA,KIGGILANEL,VDEAAVHAAV,9606
+O75044-1,SLIT-ROBO Rho GTPase-activating protein 2,425,Thr,o-linked|o-glcnacylation,ESVKS,VSETF,YSNSMESVKS,VSETFMSKPS,9606
+Q9P2N6-1,KAT8 regulatory NSL complex subunit 3,710,Ser,o-linked|o-glcnacylation,GGVSA,PVPSV,SSSSEGGVSA,PVPSVVSSST,9606
+P17275-1,Transcription factor JunB,153,Thr,o-linked|o-glcnacylation,KMNHV,PPNVS,LDDLHKMNHV,PPNVSLGATG,9606
+Q9P219-1,Protein Daple,1521,Ser,o-linked|o-glcnacylation,GSRTC,TSATT,WPSELGSRTC,TSATTTAPSN,9606
+P15151-1,Poliovirus receptor,402,Ser,o-linked|other,SYSAV,RENSS,ANGHVSYSAV,RENSSSQDPQ,9606
+Q8IVF2-1,Protein AHNAK2,1198,Ser,o-linked|o-glcnacylation,VEADV,LPSMQ,VSAPKVEADV,LPSMQGDLKT,9606
+Q8WU79-1,Stromal membrane-associated protein 2,181,Thr,o-linked|o-glcnacylation,SSPKS,APVMD,QLPRKSSPKS,APVMDLLGLD,9606
+Q14161-1,ARF GTPase-activating protein GIT2,570,Ser,o-linked|o-glcnacylation,STLSW,RDESA,LPSFPSTLSW,RDESARRASR,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,1955,Ser,o-linked|o-glcnacylation,DLTGP,VGVEV,PKLEGDLTGP,VGVEVPDVEL,9606
+Q01780-1,Exosome complex component 10,785,Ser,o-linked|o-glcnacylation,RERAT,DPRTT,NAAKKRERAT,DPRTTEQKQE,9606
+Q76LX8-1,A disintegrin and metalloproteinase with thrombospondin motifs 13,907,Ser,o-linked|other;o-linked|o-fucosylation,GSCSV,CGRGL,WTPAAGSCSV,CGRGLMELRF,9606
+P09603-1,Macrophage colony-stimulating factor 1,420,Ser,o-linked|other,NPSTL,AQPQL,PQGLSNPSTL,AQPQLSRSHS,9606
+P40763-1,Signal transducer and activator of transcription 3,714,Thr,o-linked|o-glcnacylation,KFICV,PTTCS,PYLKTKFICV,PTTCSNTIDL,9606
+P17844-1,Probable ATP-dependent RNA helicase DDX5,557,Ser,o-linked|o-glcnacylation,AGIQT,FRTGN,SNFVSAGIQT,FRTGNPTGTY,9606
+O00268-1,Transcription initiation factor TFIID subunit 4,528,Ser,o-linked|o-glcnacylation;o-linked|other,IIKQV,QAQTT,VTPTTIIKQV,QAQTTVQPSA,9606
+Q9Y467-1,Sal-like protein 2,259,Ser,o-linked|o-glcnacylation,LASSS,SSSSS,QTSKTLASSS,SSSSSSGAET,9606
+Q86X29-1,Lipolysis-stimulated lipoprotein receptor,514,Thr,o-linked|other,GSRSP,SNGGR,STAESGSRSP,SNGGRSRAYM,9606
+Q8WWM7-1,Ataxin-2-like protein,500,Ser,o-linked|o-glcnacylation,ASPKI,LAPTD,GSISPASPKI,LAPTDVKELS,9606
+Q9JLQ2-1,ARF GTPase-activating protein GIT2,504,Thr,o-linked|o-glcnacylation,RSALV,SSSSL,PTHIGRSALV,SSSSLPSFPS,10090
+P14859-1,"POU domain, class 2, transcription factor 1",226,Thr,o-linked|o-glcnacylation,AQNLL,QLPQQ,QGLLQAQNLL,QLPQQSQANL,9606
+P07814-1,Bifunctional glutamate/proline--tRNA ligase,746,Thr,o-linked|o-glcnacylation,NNNCT,SEDSL,PTPSLNNNCT,SEDSLVLYNR,9606
+Q92900-1,Regulator of nonsense transcripts 1,956,Ser,o-linked|o-glcnacylation,AIIPG,VYDRS,YDAREAIIPG,VYDRSSQGRP,9606
+P52948-1,Nuclear pore complex protein Nup98-Nup96,899,Thr,o-linked|o-glcnacylation,EHPSK,STKKL,DEEEEEHPSK,STKKLKTAPL,9606
+P49792-1,E3 SUMO-protein ligase RanBP2,2199,Ser,o-linked|o-glcnacylation,EENKG,GTGAA,TKVTEEENKG,GTGAAGASDT,9606
+Q5DX21-1,Immunoglobulin superfamily member 11,425,Ser,o-linked|o-glcnacylation,MVPAQ,RAGSL,GAVPVMVPAQ,RAGSLV,9606
+Q5T3U5-1,ATP-binding cassette sub-family C member 10,727,Ser,o-linked|o-glcnacylation,KGVTL,GGQRA,TEVGEKGVTL,GGQRARIALA,9606
+P46821-1,Microtubule-associated protein 1B,1965,Ser,o-linked|o-glcnacylation,SEKTT,PPEVS,YSYDISEKTT,PPEVSGYSYE,9606
+P27708-1,Multifunctional protein CAD,1888,Thr,o-linked|o-glcnacylation,GTPDG,CYPPP,EPELMGTPDG,CYPPPPVPRQ,9606
+Q7Z6E9-1,E3 ubiquitin-protein ligase RBBP6,1444,Ser,o-linked|o-glcnacylation,NFKSL,QSSKE,LNEQGNFKSL,QSSKEARTSD,9606
+Q14005-1,Pro-interleukin-16,1001,Ser,o-linked|o-glcnacylation,SAVMK,LLCLP,SSQVSSAVMK,LLCLPSSISC,9606
+Q8NH16-1,Olfactory receptor 2L2,301,Thr,o-linked|o-glcnacylation,VMGAL,QVIQK,LRNKEVMGAL,QVIQKIFSVK,9606
+P33176-1,Kinesin-1 heavy chain,950,Ser,o-linked|o-glcnacylation,AFVQN,QPVAV,IRGGGAFVQN,QPVAVRGGGG,9606
+O95292-1,Vesicle-associated membrane protein-associated protein B/C,214,Thr,o-linked|o-glcnacylation,SALAP,GKEEG,SNSPISALAP,GKEEGLSTRL,9606
+P49792-1,E3 SUMO-protein ligase RanBP2,1765,Ser,o-linked|o-glcnacylation,STPAS,EISKA,QTTAISTPAS,EISKAPKSGF,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,2236,Ser,o-linked|o-glcnacylation,RIPAA,AAAMN,ANLASRIPAA,AAAMNLASAR,9606
+Q6UXX5-1,Inter-alpha-trypsin inhibitor heavy chain H6,770,Ser,o-linked|o-glcnacylation,PGIPA,PKADT,VPPVKPGIPA,PKADTVKCVT,9606
+P12270-1,Nucleoprotein TPR,652,Ser,o-linked|o-glcnacylation,TSQTV,TPAPV,PKRPSTSQTV,TPAPVPVIES,9606
+O75592-1,E3 ubiquitin-protein ligase MYCBP2,4332,Ser,o-linked|o-glcnacylation,MALAD,KTMKA,KLFWLMALAD,KTMKAMVEFR,9606
+Q6KC79-1,Nipped-B-like protein,284,Ser,o-linked|o-glcnacylation,CSPAG,EGTPK,SPQPVCSPAG,EGTPKGSRPP,9606
+P23588-1,Eukaryotic translation initiation factor 4B,591,Ser,o-linked|o-glcnacylation,KFSSA,KYAAL,ENPASKFSSA,KYAALSVDGE,9606
+O60675-1,Transcription factor MafK,134,Thr,o-linked|o-glcnacylation;o-linked|other,SKVAT,SVITI,GPVAPSKVAT,SVITIVKSTE,9606
+Q9BXX0-1,EMILIN-2,161,Thr,o-linked|other,KTLSP,GTAQP,FSEPRKTLSP,GTAQPSWGVD,9606
+P52948-1,Nuclear pore complex protein Nup98-Nup96,888,Ser,o-linked|o-glcnacylation,YGLQD,DEEEE,SHFSKYGLQD,DEEEEEHPSK,9606
+Q9HC78-1,Zinc finger and BTB domain-containing protein 20,464,Thr,o-linked|o-glcnacylation,QPSVN,SIGQP,KSVLQQPSVN,SIGQPLPSTQ,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,536,Ser,o-linked|o-glcnacylation,RGRSR,PQRPG,RSPQRRGRSR,PQRPGWSRSR,9606
+Q04726-1,Transducin-like enhancer protein 3,331,Thr,o-linked|o-glcnacylation,APTPG,STTPG,TPRNDAPTPG,STTPGLRSMP,9606
+P04350-1,Tubulin beta-4A chain,126,Ser,o-linked|o-glcnacylation,RKEAE,CDCLQ,VLDVVRKEAE,CDCLQGFQLT,9606
+Q9UPY5-1,Cystine/glutamate transporter,26,Ser,o-linked|o-glcnacylation,NGRLP,LGNKE,LQGNVNGRLP,LGNKEPPGQE,9606
+Q6UN15-1,Pre-mRNA 3'-end-processing factor FIP1,259,Ser,o-linked|o-glcnacylation,KAEFT,PPSLF,ALPSTKAEFT,PPSLFKTGLP,9606
+Q93052-1,Lipoma-preferred partner,175,Thr,o-linked|o-glcnacylation,PPLTA,KKSTL,VIPNQPPLTA,KKSTLKPQPA,9606
+P51610-1,Host cell factor 1,1143,Thr,o-linked|o-glcnacylation,ACAAG,PAVIR,RDARRACAAG,PAVIRISVAT,9606
+Q15911-1,Zinc finger homeobox protein 3,571,Ser,o-linked|o-glcnacylation,RRNRL,FNSEG,FDGANRRNRL,FNSEGVRANV,9606
+P27824-1,Calnexin,74,Ser,o-linked|o-glcnacylation,VYFAD,FDRGT,VPTGEVYFAD,FDRGTLSGWI,9606
+P68133-1,"Actin, alpha skeletal muscle",267,Ser,o-linked|o-glcnacylation,TLFQP,FIGME,FRCPETLFQP,FIGMESAGIH,9606
+Q68CP9-1,AT-rich interactive domain-containing protein 2,689,Ser,o-linked|o-glcnacylation,IPQNP,PHTHQ,QTVSRIPQNP,PHTHQQQNAP,9606
+Q9UQM7-1,Calcium/calmodulin-dependent protein kinase type II subunit alpha,306,Thr,o-linked|o-glcnacylation,GAILT,MLATR,RRKLKGAILT,MLATRNFSGG,9606
+Q9UMX0-1,Ubiquilin-1,277,Thr,o-linked|o-glcnacylation,LRRMY,DIQEP,GGYNALRRMY,DIQEPMLSAA,9606
+Q92841-4,Probable ATP-dependent RNA helicase DDX17,671,Ser,o-linked|o-glcnacylation,TSTGR,SQSSS,GASSTTSTGR,SQSSSQQFSG,9606
+Q96PK6-1,RNA-binding protein 14,518,Thr,o-linked|o-glcnacylation,AAPYR,QSSAS,PSATLAAPYR,QSSASLAASY,9606
+Q8IVF2-1,Protein AHNAK2,4710,Ser,o-linked|o-glcnacylation,KVPKV,FSSTK,KKLHFKVPKV,FSSTKTPKDS,9606
+O14497-1,AT-rich interactive domain-containing protein 1A,1888,Thr,o-linked|o-glcnacylation,TTAEG,PGTTD,PRKHVTTAEG,PGTTDQEGPP,9606
+P15336-1,Cyclic AMP-dependent transcription factor ATF-2,112,Ser,o-linked|o-glcnacylation;o-linked|other,MPLDL,PLATP,DDIKKMPLDL,PLATPIIRSK,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,2244,Ser,o-linked|o-glcnacylation,AMNLA,ARTPA,AASAAAMNLA,ARTPAIPTAV,9606
+P85037-1,Forkhead box protein K1,686,Thr,o-linked|o-glcnacylation,TTTPA,ATTAS,VAATATTTPA,ATTASASASS,9606
+Q9UQ35-1,Serine/arginine repetitive matrix protein 2,2092,Thr,o-linked|o-glcnacylation,RSRSA,PPATR,GSSSDRSRSA,PPATRNHSGS,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,2836,Ser,o-linked|o-glcnacylation,KTPKI,MPDID,PEMHFKTPKI,MPDIDLNLTG,9606
+Q05209-1,Tyrosine-protein phosphatase non-receptor type 12,622,Thr,o-linked|o-glcnacylation,VTQNK,NISTA,NSDGAVTQNK,NISTASATVS,9606
+O43524-1,Forkhead box protein O3,551,Ser,o-linked|o-glcnacylation,GSRAL,NSVSN,QGALGGSRAL,NSVSNMGLSE,9606
+Q9UM47-1,Neurogenic locus notch homolog protein 3,84,Ser,o-linked|o-glcnacylation,EDPCH,GPCAG,ERCQLEDPCH,GPCAGRGVCQ,9606
+P27816-1,Microtubule-associated protein 4,925,Thr,o-linked|o-glcnacylation,LSRLA,NTSAP,STTPRLSRLA,NTSAPDLKNV,9606
+Q9UPQ0-1,LIM and calponin homology domains-containing protein 1,500,Thr,o-linked|o-glcnacylation,PPPKF,ATVET,RQQSLPPPKF,ATVETTIARA,9606
+Q16566-1,Calcium/calmodulin-dependent protein kinase type IV,189,Ser,o-linked|o-glcnacylation,ADFGL,KIVEH,APLKIADFGL,KIVEHQVLMK,9606
+Q9BYJ9-1,YTH domain-containing family protein 1,198,Ser,o-linked|o-glcnacylation;o-linked|other,GDVSS,AVKTV,VGLKIGDVSS,AVKTVGSVVS,9606
+P42166-1,"Lamina-associated polypeptide 2, isoform alpha",292,Ser,o-linked|o-glcnacylation,CLEKS,SSSSQ,SSHDRCLEKS,SSSSQPEHSA,9606
+Q9P2R6-1,Arginine-glutamic acid dipeptide repeats protein,577,Ser,o-linked|o-glcnacylation,MRTRR,RGSMS,SGKHSMRTRR,RGSMSTLRSG,9606
+Q6UX71-1,Plexin domain-containing protein 2,86,Ser,o-linked|other,SVGQD,PEPRS,DTNRASVGQD,PEPRSFTDLL,9606
+Q14657-1,EKC/KEOPS complex subunit LAGE3,142,Ser,o-linked|o-glcnacylation;o-linked|other,FGPPV,R,RTMQRFGPPV,R,9606
+Q92797-1,Symplekin,1231,Thr,o-linked|o-glcnacylation,PLPKE,AAGGL,SSLEGPLPKE,AAGGLTLKEE,9606
+P17275-1,Transcription factor JunB,189,Ser,o-linked|o-glcnacylation,NLSSY,PASAS,PPVYTNLSSY,PASASSGGAG,9606
+Q92945-1,Far upstream element-binding protein 2,191,Ser,o-linked|o-glcnacylation,GLPER,VSLTG,SPDSGGLPER,VSLTGAPESV,9606
+P20810-1,Calpastatin,414,Ser,o-linked|o-glcnacylation,RTSMC,IQSAP,SEAVCRTSMC,IQSAPPEPAT,9606
+O43175-1,D-3-phosphoglycerate dehydrogenase,89,Thr,o-linked|o-glcnacylation,DLEAA,RKGIL,GVDNVDLEAA,RKGILVMNTP,9606
+P49790-1,Nuclear pore complex protein Nup153,614,Ser,o-linked|o-glcnacylation,LDILK,PGFAS,KEGSVLDILK,PGFASPKIDS,9606
+Q92797-1,Symplekin,8,Ser,o-linked|o-glcnacylation,SGSGD,VTRRS,MASGSGD,VTRRSVASQF,9606
+Q14676-1,Mediator of DNA damage checkpoint protein 1,72,Ser,o-linked|o-glcnacylation,PFPSI,KQHAE,CSVALPFPSI,KQHAEIEILA,9606
+O75886-1,Signal transducing adapter molecule 2,372,Ser,o-linked|o-glcnacylation,EAPVY,VYSKL,NKLVNEAPVY,VYSKLHPPAH,9606
+Q8N2N9-1,Ankyrin repeat domain-containing protein 36B,322,Thr,o-linked|o-glcnacylation,GQQSG,VSPQK,TEIKEGQQSG,VSPQKQSAQK,9606
+Q14126-1,Desmoglein-2,1060,Ser,o-linked|o-glcnacylation,STLQS,YQIPT,VLAPASTLQS,YQIPTENSMT,9606
+P18031-1,Tyrosine-protein phosphatase non-receptor type 1,201,Ser,o-linked|o-glcnacylation,FKVRE,GSLSP,FLNFLFKVRE,GSLSPEHGPV,9606
+O75417-1,DNA polymerase theta,1660,Ser,o-linked|o-glcnacylation,NEKLK,MTINF,SSPLENEKLK,MTINFSSLNR,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,5195,Ser,o-linked|o-glcnacylation,SAPQV,IPDVN,PSFGISAPQV,IPDVNVNLKG,9606
+Q53ET0-1,CREB-regulated transcription coactivator 2,489,Ser,o-linked|o-glcnacylation,PPYPY,SPSLV,TDQRLPPYPY,SPSLVLPTQP,9606
+Q15648-1,Mediator of RNA polymerase II transcription subunit 1,671,Ser,o-linked|o-glcnacylation,LERQN,SSGSP,YGSSPLERQN,SSGSPRMEIC,9606
+P09651-1,Heterogeneous nuclear ribonucleoprotein A1,364,Ser,o-linked|o-glcnacylation,GSSSS,SYGSG,QGGYGGSSSS,SYGSGRRF,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,1298,Ser,o-linked|o-glcnacylation,EVPDV,LEGPE,PKVDVEVPDV,LEGPEGKLKG,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,4522,Ser,o-linked|o-glcnacylation,PQISM,DIDLN,VHFKSPQISM,DIDLNLKGPK,9606
+O95391-1,Pre-mRNA-splicing factor SLU7,110,Ser,o-linked|o-glcnacylation,GVKEN,IITKY,EWYKRGVKEN,IITKYRKGAC,9606
+Q9H4A3-1,Serine/threonine-protein kinase WNK1,2372,Ser,o-linked|o-glcnacylation,LQKSI,NPPGS,FNISNLQKSI,NPPGSNLRTT,9606
+P18760-1,Cofilin-1,3,Ser,o-linked|o-glcnacylation,MA,GVAVS,MA,GVAVSDGVIK,10090
+Q9UEU0-1,Vesicle transport through interaction with t-SNAREs homolog 1B,179,Ser,o-linked|o-glcnacylation,LERTK,RLVNT,EQRDQLERTK,RLVNTSENLS,9606
+P83876-1,Thioredoxin-like protein 4A,132,Ser,o-linked|o-glcnacylation;o-linked|other,RGLVV,PKDYS,GARKGRGLVV,PKDYSTKYRY,9606
+P42229-1,Signal transducer and activator of transcription 5A,92,Thr,o-linked|o-glcnacylation,LGHYA,QLQKT,LLKIKLGHYA,QLQKTYDRCP,9606
+Q9Y6X8-1,Zinc fingers and homeoboxes protein 2,401,Thr,o-linked|o-glcnacylation;o-linked|other,AVAGV,NHGQK,SPITLAVAGV,NHGQKRPLVT,9606
+Q5VT52-1,Regulation of nuclear pre-mRNA domain-containing protein 2,482,Thr,o-linked|o-glcnacylation,RPSPG,PTSPS,VSPASRPSPG,PTSPSNLTSG,9606
+O95817-1,BAG family molecular chaperone regulator 3,315,Ser,o-linked|o-glcnacylation,ETAPV,QPENK,PMTHRETAPV,QPENKPESKP,9606
+P46100-1,Transcriptional regulator ATRX,977,Thr,o-linked|o-glcnacylation,DQSDE,SEDDK,KFLKKDQSDE,SEDDKKQSKK,9606
+P49792-1,E3 SUMO-protein ligase RanBP2,1613,Ser,o-linked|o-glcnacylation,GQWDC,VCLVR,FTKKEGQWDC,VCLVRNEASA,9606
+Q02505-1,Mucin-3A,198,Thr,o-linked|o-glcnacylation,TTARE,PIVTV,SSPSTTTARE,PIVTVTPSSV,9606
+Q92932-1,Receptor-type tyrosine-protein phosphatase N2,220,Thr,o-linked|other,DLLPR,LGQLQ,TQLREDLLPR,LGQLQPDELS,9606
+Q7Z434-1,Mitochondrial antiviral-signaling protein,365,Thr,o-linked|o-glcnacylation,PSKVP,SMVLT,RAGMVPSKVP,SMVLTKVSAS,9606
+Q8IY57-1,YY1-associated factor 2,149,Ser,o-linked|o-glcnacylation,SADQH,QSGSS,ASSAASADQH,QSGSSSDNTE,9606
+Q14112-1,Nidogen-2,459,Ser,o-linked|other,HTTPL,RGTYE,YPASGHTTPL,RGTYEVGLED,9606
+Q9UPA5-1,Protein bassoon,1560,Thr,o-linked|o-glcnacylation,PFMVI,LASDA,SSQEAPFMVI,LASDASSQTR,9606
+O75376-1,Nuclear receptor corepressor 1,1449,Thr,o-linked|o-glcnacylation,VRSRH,SVVSS,KAGETVRSRH,SVVSSGPSVL,9606
+P12270-1,Nucleoprotein TPR,1662,Ser,o-linked|o-glcnacylation,GIAST,DPPTA,ASGERGIAST,DPPTANIKPT,9606
+P30622-3,CAP-Gly domain-containing linker protein 1,48,Ser,o-linked|o-glcnacylation,SSTPS,ETQEE,SSEKASSTPS,ETQEEFVDDF,9606
+Q9Y5K6-1,CD2-associated protein,546,Ser,o-linked|o-glcnacylation,YSPKP,VYLST,KKDTCYSPKP,VYLSTPSSAS,9606
+Q9BQE3-1,Tubulin alpha-1C chain,225,Thr,o-linked|o-glcnacylation,ERPTY,NLNRL,RNLDIERPTY,NLNRLISQIV,9606
+O15111-1,Inhibitor of nuclear factor kappa-B kinase subunit alpha,473,Ser,o-linked|o-glcnacylation,TLISA,QQLKA,TKMKNTLISA,QQLKAKLEFF,9606
+Q9H910-1,Jupiter microtubule associated homolog 2,92,Ser,o-linked|o-glcnacylation,PGGKT,DIFGS,QHLNPPGGKT,DIFGSPVTAT,9606
+Q13554-1,Calcium/calmodulin-dependent protein kinase type II subunit beta,328,Thr,o-linked|o-glcnacylation,PATMS,AASGT,RQTTAPATMS,AASGTTMGLV,9606
+Q68EM7-1,Rho GTPase-activating protein 17,808,Ser,o-linked|o-glcnacylation,PRNRP,VPPPP,RPVPKPRNRP,VPPPPQPPGV,9606
+P22211-1,Nitrogen permease reactivator protein,47,Ser,o-linked|o-glcnacylation,RNKSS,HIGSV,LDLHSRNKSS,HIGSVSNSSS,559292
+Q9UQB3-1,Catenin delta-2,517,Ser,o-linked|o-glcnacylation,VESPY,KSGPA,QYCPSVESPY,KSGPALPPEG,9606
+Q13370-1,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3B",279,Ser,o-linked|o-glcnacylation,LHPRL,SAAEE,IREAPLHPRL,SAAEEKVPVI,9606
+Q09666-1,Neuroblast differentiation-associated protein AHNAK,337,Ser,o-linked|o-glcnacylation,SAPEV,VGHKG,AGLRVSAPEV,VGHKGGKPGL,9606
